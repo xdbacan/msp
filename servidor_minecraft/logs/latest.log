@@ -633,3 +633,13 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [14Jan2025 16:02:23.665] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-87, y=64, z=-92} BlockPos{x=-88, y=62, z=-92}
 [14Jan2025 16:05:11.797] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: dunnyxd has made the advancement [Acquire Hardware]
 [14Jan2025 16:06:31.971] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/6586, l='ServerLevel[world]', x=-524.50, y=73.00, z=-129.50]
+[14Jan2025 16:10:54.559] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: dunnyxd has made the advancement [Alex's Mobs]
+[14Jan2025 16:13:03.794] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: dunnyxd has made the advancement [Knowledge of Death]
+[14Jan2025 16:13:03.795] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: dunnyxd has made the advancement [Ashes 'n Bones]
+[14Jan2025 16:18:06.190] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: dunnyxd has made the advancement [Suit Up]
+[14Jan2025 16:18:17.025] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/8744, l='ServerLevel[world]', x=-482.50, y=72.00, z=-167.50]
+[14Jan2025 16:19:33.625] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/8956, l='ServerLevel[world]', x=-467.50, y=69.00, z=-181.50]
+[14Jan2025 16:20:50.175] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/9135, l='ServerLevel[world]', x=-468.50, y=69.00, z=-181.50]
+[14Jan2025 16:20:53.974] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/9148, l='ServerLevel[world]', x=-469.50, y=69.00, z=-181.50]
+[14Jan2025 16:21:00.325] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/9165, l='ServerLevel[world]', x=-468.50, y=69.00, z=-179.50]
+[14Jan2025 16:21:25.275] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/9242, l='ServerLevel[world]', x=-467.50, y=69.00, z=-179.50]

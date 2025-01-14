@@ -11,6 +11,12 @@
     },
     "done": true
   },
+  "twilightforest:beanstalk": {
+    "criteria": {
+      "beans": "2025-01-14 16:15:21 +0000"
+    },
+    "done": false
+  },
   "takesapillage:root": {
     "criteria": {
       "always": "2025-01-14 15:54:35 +0000"
@@ -20,6 +26,12 @@
   "incendium:technical/scroll_of_returning": {
     "criteria": {
       "log_spam_fixer": "2025-01-14 15:54:38 +0000"
+    },
+    "done": false
+  },
+  "twilightforest:giants": {
+    "criteria": {
+      "pickaxe": "2025-01-14 16:15:21 +0000"
     },
     "done": false
   },
@@ -74,6 +86,12 @@
   "minecraft:story/upgrade_tools": {
     "criteria": {
       "stone_pickaxe": "2025-01-14 16:01:08 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/root": {
+    "criteria": {
+      "useitem": "2025-01-14 16:10:54 +0000"
     },
     "done": true
   },
@@ -165,6 +183,7 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
+      "cooked_mutton": "2025-01-14 16:09:38 +0000",
       "rotten_flesh": "2025-01-14 16:00:29 +0000"
     },
     "done": false
@@ -184,6 +203,18 @@
   "betterdeserttemples:root": {
     "criteria": {
       "always": "2025-01-14 15:54:34 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/first_knowledge": {
+    "criteria": {
+      "coded_trigger": "2025-01-14 16:13:03 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/ashes_and_bones": {
+    "criteria": {
+      "coded_trigger": "2025-01-14 16:13:03 +0000"
     },
     "done": true
   },
