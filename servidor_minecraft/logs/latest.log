@@ -649,3 +649,13 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [14Jan2025 16:31:04.276] [Worker-Main-11/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
 [14Jan2025 16:31:04.276] [Worker-Main-11/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
 [14Jan2025 16:31:23.176] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: dunnyxd has made the advancement [Cobweb Entanglement]
+[14Jan2025 16:31:43.673] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2102ms or 42 ticks behind
+[14Jan2025 16:38:48.849] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: dunnyxd has made the advancement [You Are A Pirate]
+[14Jan2025 16:39:12.449] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: dunnyxd has made the advancement [Not Today, Thank You]
+[14Jan2025 16:39:12.641] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: dunnyxd has made the advancement [Ambush]
+[14Jan2025 16:41:04.045] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: dunnyxd has made the advancement [Diamonds!]
+[14Jan2025 16:41:36.820] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: dunnyxd was slain by Vindicator
+[14Jan2025 16:41:36.860] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: dunnyxd has made the advancement [Your First Grave]
+[14Jan2025 16:41:36.893] [Server thread/INFO] [tombstone/]: The player dunnyxd has successfully been saved
+[14Jan2025 16:41:44.638] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: dunnyxd lost connection: Disconnected
+[14Jan2025 16:41:44.638] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: dunnyxd left the game
