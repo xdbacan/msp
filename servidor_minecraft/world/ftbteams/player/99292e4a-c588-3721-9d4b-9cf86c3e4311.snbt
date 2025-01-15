@@ -1,0 +1,17 @@
+{
+	id: "99292e4a-c588-3721-9d4b-9cf86c3e4311"
+	type: "player"
+	player_name: "dunnyxd"
+	ranks: {
+		99292e4a-c588-3721-9d4b-9cf86c3e4311: "owner"
+	}
+	properties: {
+		"ftbteams:display_name": "dunnyxd"
+		"ftbteams:description": ""
+		"ftbteams:color": "#FF7A59"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+	}
+	message_history: [ ]
+	extra: { }
+}

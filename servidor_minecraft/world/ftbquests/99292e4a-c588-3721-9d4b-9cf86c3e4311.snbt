@@ -1,0 +1,12 @@
+{
+	version: 1
+	uuid: "99292e4ac58837219d4b9cf86c3e4311"
+	name: "dunnyxd#99292e4a"
+	lock: false
+	rewards_blocked: false
+	task_progress: { }
+	started: { }
+	completed: { }
+	claimed_rewards: { }
+	player_data: { }
+}

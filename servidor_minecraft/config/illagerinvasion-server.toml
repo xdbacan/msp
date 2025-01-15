@@ -35,9 +35,11 @@
 	#Does this illager take part in village raids.
 	participate_in_raids = true
 
-[general]
+[invoker]
 	#Show a yellow boss bar when fighting an invoker.
 	invoker_boss_bar = true
+
+[general]
 	#Will platinum armor trims provide special effects to the player depending on the piece of armor they are applied to.
 	#Helmet: More experience from killing mobs.
 	#Chestplate: Faster block breaking speed when using an incorrect or no tool.
