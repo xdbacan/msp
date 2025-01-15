@@ -107,6 +107,12 @@
     },
     "done": true
   },
+  "tombstone:adventure/find_grave_dust": {
+    "criteria": {
+      "from_undead": "2025-01-15 16:50:39 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/iron_helmet": {
     "criteria": {
       "has_iron_ingot": "2025-01-15 16:45:49 +0000"
@@ -116,6 +122,18 @@
   "aquaculture:recipes/misc/neptunium_ingot_from_neptunium_block": {
     "criteria": {
       "has_items": "2025-01-15 16:31:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/mine_stone": {
+    "criteria": {
+      "get_stone": "2025-01-15 16:49:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/furnace": {
+    "criteria": {
+      "has_cobblestone": "2025-01-15 16:49:41 +0000"
     },
     "done": true
   },
@@ -271,6 +289,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/red_dye_from_rose_bush": {
+    "criteria": {
+      "has_rose_bush": "2025-01-15 16:49:52 +0000"
+    },
+    "done": true
+  },
   "biomesoplenty:recipes/misc/brown_dye_from_cattail": {
     "criteria": {
       "has_flower": "2025-01-15 16:40:08 +0000"
@@ -283,6 +307,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/cobblestone_slab_from_cobblestone_stonecutting": {
+    "criteria": {
+      "has_cobblestone": "2025-01-15 16:49:41 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/cherry_boat": {
     "criteria": {
       "in_water": "2025-01-15 16:35:02 +0000"
@@ -291,7 +321,9 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
-      "minecraft:witch": "2025-01-15 16:38:23 +0000"
+      "minecraft:pillager": "2025-01-15 16:55:38 +0000",
+      "minecraft:witch": "2025-01-15 16:38:23 +0000",
+      "minecraft:zombie": "2025-01-15 16:50:39 +0000"
     },
     "done": false
   },
@@ -319,9 +351,27 @@
     },
     "done": true
   },
+  "iceandfire:recipes/misc/ghost_chest": {
+    "criteria": {
+      "has_item": "2025-01-15 16:54:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/tripwire_hook": {
+    "criteria": {
+      "has_string": "2025-01-15 16:46:44 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/decorations/cooking_pot": {
     "criteria": {
       "has_iron_ingot": "2025-01-15 16:45:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone": {
+    "criteria": {
+      "has_cobblestone": "2025-01-15 16:49:41 +0000"
     },
     "done": true
   },
@@ -340,6 +390,12 @@
   "farmersdelight:recipes/cooking/baked_cod_stew": {
     "criteria": {
       "has_any_ingredient": "2025-01-15 16:36:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/candle": {
+    "criteria": {
+      "has_string": "2025-01-15 16:46:44 +0000"
     },
     "done": true
   },
@@ -407,6 +463,12 @@
   "minecraft:recipes/tools/compass": {
     "criteria": {
       "has_redstone": "2025-01-15 16:38:46 +0000"
+    },
+    "done": true
+  },
+  "explorerscompass:explorers_compass": {
+    "criteria": {
+      "has_recipe": "2025-01-15 16:54:20 +0000"
     },
     "done": true
   },
@@ -504,6 +566,12 @@
   "minecraft:recipes/redstone/spruce_pressure_plate": {
     "criteria": {
       "has_planks": "2025-01-15 16:37:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/stone_pickaxe": {
+    "criteria": {
+      "has_cobblestone": "2025-01-15 16:49:41 +0000"
     },
     "done": true
   },
@@ -644,6 +712,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/cobblestone_slab": {
+    "criteria": {
+      "has_cobblestone": "2025-01-15 16:49:41 +0000"
+    },
+    "done": true
+  },
   "mcwbridges:recipes/iron_bridge": {
     "criteria": {
       "has_planks": "2025-01-15 16:45:49 +0000"
@@ -753,6 +827,12 @@
     },
     "done": true
   },
+  "tombstone:recipes/from_grave_dust": {
+    "criteria": {
+      "has_ingredient": "2025-01-15 16:50:44 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/barrel": {
     "criteria": {
       "has_planks": "2025-01-15 16:37:29 +0000"
@@ -765,9 +845,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/cobblestone_wall_from_cobblestone_stonecutting": {
+    "criteria": {
+      "has_cobblestone": "2025-01-15 16:49:41 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/firework_rocket_simple": {
     "criteria": {
       "has_gunpowder": "2025-01-15 16:38:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cobblestone_stairs": {
+    "criteria": {
+      "has_cobblestone": "2025-01-15 16:49:41 +0000"
     },
     "done": true
   },
@@ -813,6 +905,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/stone_shovel": {
+    "criteria": {
+      "has_cobblestone": "2025-01-15 16:49:41 +0000"
+    },
+    "done": true
+  },
   "tombstone:adventure/root": {
     "criteria": {
       "auto": "2025-01-15 16:31:43 +0000"
@@ -852,6 +950,24 @@
   "twilightforest:recipes/transportation/twilight_oak_boat": {
     "criteria": {
       "in_water": "2025-01-15 16:35:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/lever": {
+    "criteria": {
+      "has_cobblestone": "2025-01-15 16:49:41 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/dog_food": {
+    "criteria": {
+      "has_any_ingredient": "2025-01-15 16:50:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/magenta_dye_from_lilac": {
+    "criteria": {
+      "has_lilac": "2025-01-15 16:55:33 +0000"
     },
     "done": true
   },
@@ -921,6 +1037,12 @@
     },
     "done": true
   },
+  "minecraft:story/obtain_armor": {
+    "criteria": {
+      "iron_boots": "2025-01-15 16:56:14 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/cooking/fish_stew": {
     "criteria": {
       "has_any_ingredient": "2025-01-15 16:36:16 +0000"
@@ -933,15 +1055,45 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/iron_nugget_from_smelting": {
+    "criteria": {
+      "has_iron_pickaxe": "2025-01-15 16:49:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/iron_tools": {
+    "criteria": {
+      "iron_pickaxe": "2025-01-15 16:49:33 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/iron_chestplate": {
     "criteria": {
       "has_iron_ingot": "2025-01-15 16:45:49 +0000"
     },
     "done": true
   },
+  "minecraft:recipes/combat/stone_sword": {
+    "criteria": {
+      "has_cobblestone": "2025-01-15 16:49:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/cobblestone_wall": {
+    "criteria": {
+      "has_cobblestone": "2025-01-15 16:49:41 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/gold_nugget_from_smelting": {
     "criteria": {
       "has_golden_boots": "2025-01-15 16:35:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/stone_axe": {
+    "criteria": {
+      "has_cobblestone": "2025-01-15 16:49:41 +0000"
     },
     "done": true
   },
@@ -996,6 +1148,12 @@
   "minecraft:recipes/building_blocks/glass": {
     "criteria": {
       "has_smelts_to_glass": "2025-01-15 16:37:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/bow": {
+    "criteria": {
+      "has_string": "2025-01-15 16:46:44 +0000"
     },
     "done": true
   },
@@ -1089,6 +1247,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/fishing_rod": {
+    "criteria": {
+      "has_string": "2025-01-15 16:46:44 +0000"
+    },
+    "done": true
+  },
   "toolbelt:recipes/pouch": {
     "criteria": {
       "has_leather": "2025-01-15 16:45:53 +0000"
@@ -1131,6 +1295,7 @@
       "wetland": "2025-01-15 16:37:43 +0000",
       "maple_woods": "2025-01-15 16:43:45 +0000",
       "field": "2025-01-15 16:40:57 +0000",
+      "seasonal_forest": "2025-01-15 16:49:12 +0000",
       "ominous_woods": "2025-01-15 16:41:29 +0000"
     },
     "done": false
@@ -1144,6 +1309,12 @@
   "minecraft:recipes/building_blocks/white_concrete_powder": {
     "criteria": {
       "has_sand": "2025-01-15 16:37:33 +0000"
+    },
+    "done": true
+  },
+  "illagerinvasion:recipes/misc/platinum_sheet": {
+    "criteria": {
+      "has_platinum_chunk": "2025-01-15 16:55:50 +0000"
     },
     "done": true
   },
@@ -1177,6 +1348,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/bone_meal": {
+    "criteria": {
+      "has_bone": "2025-01-15 16:54:20 +0000"
+    },
+    "done": true
+  },
   "lootr:root": {
     "criteria": {
       "always_true": "2025-01-15 16:31:42 +0000"
@@ -1207,6 +1384,12 @@
     },
     "done": true
   },
+  "explorerscompass:explorers_compass_cobweb": {
+    "criteria": {
+      "has_cobweb": "2025-01-15 16:54:20 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/spruce_boat": {
     "criteria": {
       "in_water": "2025-01-15 16:35:02 +0000"
@@ -1216,6 +1399,12 @@
   "alexscaves:alexscaves/cave_tablet": {
     "criteria": {
       "cave_tablet": "2025-01-15 16:38:46 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/misc/bestiary": {
+    "criteria": {
+      "has_item": "2025-01-15 16:54:22 +0000"
     },
     "done": true
   },
@@ -1333,6 +1522,12 @@
     },
     "done": true
   },
+  "mcwbridges:recipes/cobblestone_bridge": {
+    "criteria": {
+      "has_planks": "2025-01-15 16:49:41 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/shield": {
     "criteria": {
       "has_iron_ingot": "2025-01-15 16:45:49 +0000"
@@ -1372,6 +1567,12 @@
   "aquaculture:recipes/aquaculture/redstone_hook": {
     "criteria": {
       "has_items": "2025-01-15 16:31:42 +0000"
+    },
+    "done": true
+  },
+  "explorerscompass:explorers_compass_cracked_stone_bricks": {
+    "criteria": {
+      "has_recipe": "2025-01-15 16:54:20 +0000"
     },
     "done": true
   },
@@ -1454,6 +1655,12 @@
     },
     "done": true
   },
+  "mcwbridges:recipes/cobblestone_bridge_pier": {
+    "criteria": {
+      "has_planks": "2025-01-15 16:49:41 +0000"
+    },
+    "done": true
+  },
   "aquaculture:recipes/misc/gold_nugget_from_gold_fish": {
     "criteria": {
       "has_items": "2025-01-15 16:31:42 +0000"
@@ -1499,6 +1706,12 @@
   "ecologics:recipes/ecologics/coconut_boat": {
     "criteria": {
       "in_water": "2025-01-15 16:35:02 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/bone_broth": {
+    "criteria": {
+      "has_bone": "2025-01-15 16:54:20 +0000"
     },
     "done": true
   },
@@ -1550,6 +1763,12 @@
     },
     "done": true
   },
+  "sophisticatedbackpacks:recipes/misc/copper_backpack": {
+    "criteria": {
+      "has_backpack": "2025-01-15 16:47:34 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cooked_mutton_from_campfire_cooking": {
     "criteria": {
       "has_mutton": "2025-01-15 16:43:27 +0000"
@@ -1598,9 +1817,39 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/white_wool_from_string": {
+    "criteria": {
+      "has_string": "2025-01-15 16:46:44 +0000"
+    },
+    "done": true
+  },
+  "mcwbridges:recipes/cobblestone_bridge_stair": {
+    "criteria": {
+      "has_planks": "2025-01-15 16:49:41 +0000"
+    },
+    "done": true
+  },
+  "mcwbridges:recipes/balustrade_cobblestone_bridge": {
+    "criteria": {
+      "has_planks": "2025-01-15 16:49:41 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/building_blocks/organic_compost_from_rotten_flesh": {
+    "criteria": {
+      "has_rotten_flesh": "2025-01-15 16:50:45 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cooked_cod_from_campfire_cooking": {
     "criteria": {
       "has_cod": "2025-01-15 16:36:22 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/building_blocks/graveyard_soil": {
+    "criteria": {
+      "has_item": "2025-01-15 16:54:22 +0000"
     },
     "done": true
   },
@@ -1613,6 +1862,12 @@
   "minecraft:recipes/tools/iron_axe": {
     "criteria": {
       "has_iron_ingot": "2025-01-15 16:45:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_nugget_from_blasting": {
+    "criteria": {
+      "has_iron_pickaxe": "2025-01-15 16:49:33 +0000"
     },
     "done": true
   },
@@ -1637,6 +1892,18 @@
     },
     "done": false
   },
+  "minecraft:recipes/building_blocks/cobblestone_stairs_from_cobblestone_stonecutting": {
+    "criteria": {
+      "has_cobblestone": "2025-01-15 16:49:41 +0000"
+    },
+    "done": true
+  },
+  "mcwpaths:recipes/cobblestone": {
+    "criteria": {
+      "has_wood": "2025-01-15 16:49:41 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/decorations/cutting_board": {
     "criteria": {
       "has_stick": "2025-01-15 16:38:08 +0000"
@@ -1646,6 +1913,7 @@
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
       "cooked_mutton": "2025-01-15 16:44:30 +0000",
+      "cooked_beef": "2025-01-15 16:51:43 +0000",
       "salmon": "2025-01-15 16:38:30 +0000"
     },
     "done": false
@@ -1674,6 +1942,18 @@
     },
     "done": true
   },
+  "aquaculture:recipes/tools/stone_fillet_knife": {
+    "criteria": {
+      "has_items": "2025-01-15 16:49:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/stone_hoe": {
+    "criteria": {
+      "has_cobblestone": "2025-01-15 16:49:41 +0000"
+    },
+    "done": true
+  },
   "aquaculture:recipes/misc/iron_nugget_from_blasting": {
     "criteria": {
       "has_fishing_rod": "2025-01-15 16:31:42 +0000",
@@ -1684,6 +1964,12 @@
   "minecraft:recipes/building_blocks/spruce_stairs": {
     "criteria": {
       "has_planks": "2025-01-15 16:37:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/loom": {
+    "criteria": {
+      "has_string": "2025-01-15 16:46:44 +0000"
     },
     "done": true
   },
@@ -1732,6 +2018,12 @@
   "minecraft:recipes/redstone/piston": {
     "criteria": {
       "has_redstone": "2025-01-15 16:38:46 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/iron_backpack": {
+    "criteria": {
+      "has_backpack": "2025-01-15 16:47:34 +0000"
     },
     "done": true
   },

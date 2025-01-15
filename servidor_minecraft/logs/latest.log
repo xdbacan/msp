@@ -1192,3 +1192,8 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [15Jan2025 16:49:00.934] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: dunnyxd moved too quickly! -3.0696681636767096,1.7435291107426991,-9.617986448062823
 [15Jan2025 16:49:00.935] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5656ms or 113 ticks behind
 [15Jan2025 16:49:33.901] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: dunnyxd has made the advancement [Isn't It Iron Pick]
+[15Jan2025 16:49:41.591] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: dunnyxd has made the advancement [Stone Age]
+[15Jan2025 16:50:39.641] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: dunnyxd has made the advancement [A Strange Grave Dust]
+[15Jan2025 16:54:23.243] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Nitwit'/7719, l='ServerLevel[world]', x=-1.05, y=83.56, z=-738.53] died, message: 'Nitwit was slain by Fire Dragon'
+[15Jan2025 16:56:14.141] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: dunnyxd has made the advancement [Suit Up]
+[15Jan2025 16:57:55.194] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: dunnyxd has made the advancement [Take Aim]
