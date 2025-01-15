@@ -210,6 +210,12 @@
     },
     "done": true
   },
+  "minecraft:adventure/shoot_arrow": {
+    "criteria": {
+      "shot_arrow": "2025-01-15 16:57:55 +0000"
+    },
+    "done": true
+  },
   "nethersdelight:recipes/decorations/blackstone_blast_furnace": {
     "criteria": {
       "has_iron": "2025-01-15 16:45:49 +0000"
@@ -322,6 +328,7 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:pillager": "2025-01-15 16:55:38 +0000",
+      "minecraft:skeleton": "2025-01-15 17:03:31 +0000",
       "minecraft:witch": "2025-01-15 16:38:23 +0000",
       "minecraft:zombie": "2025-01-15 16:50:39 +0000"
     },
@@ -527,6 +534,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_beef_from_smoking": {
+    "criteria": {
+      "has_beef": "2025-01-15 17:05:15 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/orange_concrete_powder": {
     "criteria": {
       "has_sand": "2025-01-15 16:37:33 +0000"
@@ -554,6 +567,12 @@
   "minecraft:recipes/combat/iron_boots": {
     "criteria": {
       "has_iron_ingot": "2025-01-15 16:45:49 +0000"
+    },
+    "done": true
+  },
+  "comforts:sleeping_bag_white": {
+    "criteria": {
+      "has_white_wool": "2025-01-15 17:02:48 +0000"
     },
     "done": true
   },
@@ -644,6 +663,12 @@
   "naturescompass:natures_compass_log": {
     "criteria": {
       "has_log": "2025-01-15 16:33:54 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/pasta_with_meatballs": {
+    "criteria": {
+      "has_any_ingredient": "2025-01-15 17:05:15 +0000"
     },
     "done": true
   },
@@ -851,6 +876,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/grindstone": {
+    "criteria": {
+      "has_stone_slab": "2025-01-15 17:00:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/white_bed": {
+    "criteria": {
+      "has_white_wool": "2025-01-15 17:02:48 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/firework_rocket_simple": {
     "criteria": {
       "has_gunpowder": "2025-01-15 16:38:43 +0000"
@@ -926,6 +963,12 @@
   "betterarcheology:recipes/combat/bomb": {
     "criteria": {
       "has_gunpowder": "2025-01-15 16:38:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_beef": {
+    "criteria": {
+      "has_beef": "2025-01-15 17:05:15 +0000"
     },
     "done": true
   },
@@ -1205,6 +1248,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/painting": {
+    "criteria": {
+      "has_wool": "2025-01-15 17:02:48 +0000"
+    },
+    "done": true
+  },
   "aquaculture:recipes/aquaculture/gold_hook": {
     "criteria": {
       "has_items": "2025-01-15 16:31:42 +0000"
@@ -1295,6 +1344,7 @@
       "wetland": "2025-01-15 16:37:43 +0000",
       "maple_woods": "2025-01-15 16:43:45 +0000",
       "field": "2025-01-15 16:40:57 +0000",
+      "coniferous_forest": "2025-01-15 17:00:40 +0000",
       "seasonal_forest": "2025-01-15 16:49:12 +0000",
       "ominous_woods": "2025-01-15 16:41:29 +0000"
     },
@@ -1366,6 +1416,12 @@
     },
     "done": true
   },
+  "new_slab_variants:recipes/building_blocks/white_wool_slab": {
+    "criteria": {
+      "has_white_wool": "2025-01-15 17:02:48 +0000"
+    },
+    "done": true
+  },
   "iceandfire:recipes/misc/earplugs": {
     "criteria": {
       "has_item": "2025-01-15 16:37:29 +0000"
@@ -1375,6 +1431,12 @@
   "minecraft:recipes/decorations/smithing_table": {
     "criteria": {
       "has_iron_ingot": "2025-01-15 16:45:49 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/food/ambrosia": {
+    "criteria": {
+      "has_item": "2025-01-15 17:05:42 +0000"
     },
     "done": true
   },
@@ -1429,6 +1491,12 @@
   "minecraft:recipes/transportation/birch_boat": {
     "criteria": {
       "in_water": "2025-01-15 16:35:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/white_carpet": {
+    "criteria": {
+      "has_white_wool": "2025-01-15 17:02:48 +0000"
     },
     "done": true
   },
@@ -1667,6 +1735,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/white_banner": {
+    "criteria": {
+      "has_white_wool": "2025-01-15 17:02:48 +0000"
+    },
+    "done": true
+  },
   "toolbelt:recipes/belt": {
     "criteria": {
       "has_leather": "2025-01-15 16:45:53 +0000"
@@ -1805,6 +1879,12 @@
     },
     "done": true
   },
+  "betterdungeons:all_dungeons": {
+    "criteria": {
+      "in_better_spider_dungeon": "2025-01-15 17:05:13 +0000"
+    },
+    "done": false
+  },
   "betterarcheology:recipes/tools/iron_brush": {
     "criteria": {
       "has_iron_ingot": "2025-01-15 16:45:49 +0000"
@@ -1847,6 +1927,12 @@
     },
     "done": true
   },
+  "comforts:hammock_white": {
+    "criteria": {
+      "has_white_wool": "2025-01-15 17:02:48 +0000"
+    },
+    "done": true
+  },
   "iceandfire:recipes/building_blocks/graveyard_soil": {
     "criteria": {
       "has_item": "2025-01-15 16:54:22 +0000"
@@ -1885,10 +1971,15 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:taiga": "2025-01-15 17:01:06 +0000",
+      "minecraft:birch_forest": "2025-01-15 17:01:24 +0000",
       "minecraft:beach": "2025-01-15 16:34:08 +0000",
       "minecraft:river": "2025-01-15 16:37:37 +0000",
+      "minecraft:swamp": "2025-01-15 17:01:44 +0000",
       "minecraft:cold_ocean": "2025-01-15 16:35:09 +0000",
-      "minecraft:old_growth_spruce_taiga": "2025-01-15 16:31:43 +0000"
+      "minecraft:windswept_forest": "2025-01-15 17:01:47 +0000",
+      "minecraft:old_growth_spruce_taiga": "2025-01-15 16:31:43 +0000",
+      "minecraft:old_growth_birch_forest": "2025-01-15 17:01:58 +0000"
     },
     "done": false
   },
@@ -1914,6 +2005,7 @@
     "criteria": {
       "cooked_mutton": "2025-01-15 16:44:30 +0000",
       "cooked_beef": "2025-01-15 16:51:43 +0000",
+      "golden_apple": "2025-01-15 17:00:06 +0000",
       "salmon": "2025-01-15 16:38:30 +0000"
     },
     "done": false
@@ -1964,6 +2056,12 @@
   "minecraft:recipes/building_blocks/spruce_stairs": {
     "criteria": {
       "has_planks": "2025-01-15 16:37:29 +0000"
+    },
+    "done": true
+  },
+  "betterdungeons:spider_dungeon": {
+    "criteria": {
+      "in_better_spider_dungeon": "2025-01-15 17:05:13 +0000"
     },
     "done": true
   },
@@ -2018,6 +2116,12 @@
   "minecraft:recipes/redstone/piston": {
     "criteria": {
       "has_redstone": "2025-01-15 16:38:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_beef_from_campfire_cooking": {
+    "criteria": {
+      "has_beef": "2025-01-15 17:05:15 +0000"
     },
     "done": true
   },
