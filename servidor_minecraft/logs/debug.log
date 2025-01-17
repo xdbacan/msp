@@ -9835,3 +9835,37 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [17Jan2025 01:48:29.195] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: dunnyxd has made the advancement [Getting an Upgrade]
 [17Jan2025 01:49:55.598] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [17Jan2025 01:49:55.685] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[17Jan2025 01:54:49.806] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Creating a dungeon at (564 | 28 | 148).
+[17Jan2025 01:54:49.806] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Generating layout for layer 0
+[17Jan2025 01:54:49.806] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Generated Layer 0 with 5(0) Nodes and 3(0) Rooms
+[17Jan2025 01:54:49.806] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Generating layout for layer 1
+[17Jan2025 01:54:49.807] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Generated Layer 1 with 6(0) Nodes and 6(0) Rooms
+[17Jan2025 01:54:49.807] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Generating layout for layer 2
+[17Jan2025 01:54:49.807] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Generated Layer 2 with 4(7) Nodes and 6(0) Rooms
+[17Jan2025 01:54:49.807] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Generating layout for layer 3
+[17Jan2025 01:54:49.807] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Generated Layer 3 with 1(11) Nodes and 5(0) Rooms
+[17Jan2025 01:54:49.807] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Generating layout for layer 4
+[17Jan2025 01:54:49.807] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Generated Layer 4 with 3(7) Nodes and 4(0) Rooms
+[17Jan2025 01:54:55.600] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[17Jan2025 01:54:55.620] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[17Jan2025 01:54:59.401] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: dunnyxd has made the advancement ['X' Marks the Spot]
+[17Jan2025 01:55:00.404] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: dunnyxd has made the advancement [Acquire Hardware]
+[17Jan2025 01:55:00.674] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: dunnyxd has made the advancement [Suit Up]
+[17Jan2025 01:55:04.748] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: dunnyxd has made the advancement [Barrel Booty]
+[17Jan2025 01:55:49.253] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [dunnyxd: The difficulty has been set to Hard]
+[17Jan2025 01:56:07.548] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: dunnyxd has made the advancement [Isn't It Iron Pick]
+[17Jan2025 01:59:55.564] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[17Jan2025 01:59:55.589] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[17Jan2025 02:01:32.846] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: dunnyxd was slain by Crocodile
+[17Jan2025 02:01:32.851] [Server thread/DEBUG] [tombstone/]: A new grave of the player dunnyxd was created at position [x:104, y:64, z:32, dim:minecraft:overworld]
+[17Jan2025 02:01:32.873] [Server thread/INFO] [tombstone/]: The player dunnyxd has successfully been saved
+[17Jan2025 02:01:36.811] [Server thread/WARN] [dev.gigaherz.toolbelt.slot.BeltExtensionSlot/]: New entity has data, contents assigned.
+[17Jan2025 02:01:36.865] [Server thread/DEBUG] [twilightforest/]: Player dunnyxd (99292e4a-c588-3721-9d4b-9cf86c3e4311) respawned and received items held in storage
+[17Jan2025 02:02:01.450] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: dunnyxd has reached the goal [Here They Come]
+[17Jan2025 02:02:05.439] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: dunnyxd has made the advancement [Knowledge of Death]
+[17Jan2025 02:02:05.441] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: dunnyxd has reached the goal [Chain Death]
+[17Jan2025 02:02:05.441] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: dunnyxd was slain by Crocodile
+[17Jan2025 02:02:05.443] [Server thread/DEBUG] [tombstone/]: A new grave of the player dunnyxd was created at position [x:106, y:64, z:29, dim:minecraft:overworld]
+[17Jan2025 02:02:05.457] [Server thread/INFO] [tombstone/]: The player dunnyxd has successfully been saved
+[17Jan2025 02:02:06.659] [Server thread/WARN] [dev.gigaherz.toolbelt.slot.BeltExtensionSlot/]: New entity has data, contents assigned.
+[17Jan2025 02:02:06.746] [Server thread/DEBUG] [twilightforest/]: Player dunnyxd (99292e4a-c588-3721-9d4b-9cf86c3e4311) respawned and received items held in storage

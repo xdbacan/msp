@@ -1305,3 +1305,18 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [17Jan2025 01:47:02.435] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: dunnyxd has made the advancement [Who You Gonna Call?]
 [17Jan2025 01:47:51.149] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: dunnyxd has made the advancement [Stone Age]
 [17Jan2025 01:48:29.195] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: dunnyxd has made the advancement [Getting an Upgrade]
+[17Jan2025 01:54:59.401] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: dunnyxd has made the advancement ['X' Marks the Spot]
+[17Jan2025 01:55:00.404] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: dunnyxd has made the advancement [Acquire Hardware]
+[17Jan2025 01:55:00.674] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: dunnyxd has made the advancement [Suit Up]
+[17Jan2025 01:55:04.748] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: dunnyxd has made the advancement [Barrel Booty]
+[17Jan2025 01:55:49.253] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [dunnyxd: The difficulty has been set to Hard]
+[17Jan2025 01:56:07.548] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: dunnyxd has made the advancement [Isn't It Iron Pick]
+[17Jan2025 02:01:32.846] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: dunnyxd was slain by Crocodile
+[17Jan2025 02:01:32.873] [Server thread/INFO] [tombstone/]: The player dunnyxd has successfully been saved
+[17Jan2025 02:01:36.811] [Server thread/WARN] [dev.gigaherz.toolbelt.slot.BeltExtensionSlot/]: New entity has data, contents assigned.
+[17Jan2025 02:02:01.450] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: dunnyxd has reached the goal [Here They Come]
+[17Jan2025 02:02:05.439] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: dunnyxd has made the advancement [Knowledge of Death]
+[17Jan2025 02:02:05.441] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: dunnyxd has reached the goal [Chain Death]
+[17Jan2025 02:02:05.441] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: dunnyxd was slain by Crocodile
+[17Jan2025 02:02:05.457] [Server thread/INFO] [tombstone/]: The player dunnyxd has successfully been saved
+[17Jan2025 02:02:06.659] [Server thread/WARN] [dev.gigaherz.toolbelt.slot.BeltExtensionSlot/]: New entity has data, contents assigned.
