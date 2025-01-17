@@ -1320,3 +1320,26 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [17Jan2025 02:02:05.441] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: dunnyxd was slain by Crocodile
 [17Jan2025 02:02:05.457] [Server thread/INFO] [tombstone/]: The player dunnyxd has successfully been saved
 [17Jan2025 02:02:06.659] [Server thread/WARN] [dev.gigaherz.toolbelt.slot.BeltExtensionSlot/]: New entity has data, contents assigned.
+[17Jan2025 02:02:37.797] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: dunnyxd has made the advancement [Hot Stuff]
+[17Jan2025 02:04:00.562] [Worker-Main-1/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id medieval_craft_structures:redknight
+[17Jan2025 02:04:00.563] [Worker-Main-1/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id medieval_craft_structures:red_archer
+[17Jan2025 02:04:00.563] [Worker-Main-1/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id medieval_craft_structures:red_archer
+[17Jan2025 02:04:00.563] [Worker-Main-1/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id medieval_craft_structures:red_archer
+[17Jan2025 02:04:00.564] [Worker-Main-1/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id medieval_craft_structures:red_archer
+[17Jan2025 02:04:00.564] [Worker-Main-1/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id medieval_craft_structures:red_archer
+[17Jan2025 02:04:00.564] [Worker-Main-1/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id medieval_craft_structures:red_soldier
+[17Jan2025 02:04:00.565] [Worker-Main-1/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id medieval_craft_structures:red_soldier
+[17Jan2025 02:04:00.565] [Worker-Main-1/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id medieval_craft_structures:red_soldier
+[17Jan2025 02:04:00.565] [Worker-Main-1/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id medieval_craft_structures:red_soldier
+[17Jan2025 02:04:00.565] [Worker-Main-1/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id medieval_craft_structures:red_soldier
+[17Jan2025 02:04:36.394] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: dunnyxd moved too quickly! 9.35952724794521,1.252203340253729,3.9009759544213978
+[17Jan2025 02:07:22.889] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/9835, l='ServerLevel[world]', x=581.50, y=75.00, z=134.50]
+[17Jan2025 02:07:27.238] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/9855, l='ServerLevel[world]', x=552.50, y=74.00, z=217.50]
+[17Jan2025 02:07:28.388] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/9859, l='ServerLevel[world]', x=574.50, y=78.00, z=180.50]
+[17Jan2025 02:07:31.537] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/9875, l='ServerLevel[world]', x=540.50, y=71.00, z=168.50]
+[17Jan2025 02:07:36.237] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/9921, l='ServerLevel[world]', x=577.50, y=75.00, z=191.50]
+[17Jan2025 02:07:48.245] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: dunnyxd was shot by Skeleton
+[17Jan2025 02:07:48.252] [Server thread/INFO] [tombstone/]: The player dunnyxd has successfully been saved
+[17Jan2025 02:07:49.809] [Server thread/WARN] [dev.gigaherz.toolbelt.slot.BeltExtensionSlot/]: New entity has data, contents assigned.
+[17Jan2025 02:07:54.643] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: dunnyxd lost connection: Disconnected
+[17Jan2025 02:07:54.644] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: dunnyxd left the game
