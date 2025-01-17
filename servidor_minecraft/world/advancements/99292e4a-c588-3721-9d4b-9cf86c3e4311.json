@@ -1,2188 +1,821 @@
 {
-  "minecraft:recipes/combat/leather_helmet": {
-    "criteria": {
-      "has_leather": "2025-01-15 16:45:53 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/ladder": {
-    "criteria": {
-      "has_stick": "2025-01-15 16:38:08 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/food/grilled_salmon": {
-    "criteria": {
-      "has_salmon": "2025-01-15 16:36:16 +0000"
-    },
-    "done": true
-  },
   "deeperdarker:recipes/transportation/echo_boat": {
     "criteria": {
-      "in_water": "2025-01-15 16:35:02 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/food/cooked_chicken_from_campfire_cooking": {
-    "criteria": {
-      "has_chicken": "2025-01-15 17:12:19 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/food/cooked_mutton_from_smoking": {
-    "criteria": {
-      "has_mutton": "2025-01-15 16:43:27 +0000"
-    },
-    "done": true
-  },
-  "mcwbridges:recipes/spruce_bridge_pier": {
-    "criteria": {
-      "has_planks": "2025-01-15 16:33:54 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/cooking/rabbit_stew": {
-    "criteria": {
-      "has_any_ingredient": "2025-01-15 16:38:47 +0000"
+      "in_water": "2025-01-17 01:37:25 +0000"
     },
     "done": true
   },
   "ecologics:recipes/ecologics/azalea_boat": {
     "criteria": {
-      "in_water": "2025-01-15 16:35:02 +0000"
-    },
-    "done": true
-  },
-  "mcwbridges:recipes/spruce_rail_bridge": {
-    "criteria": {
-      "has_planks": "2025-01-15 16:37:29 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/red_concrete_powder": {
-    "criteria": {
-      "has_sand": "2025-01-15 16:37:33 +0000"
-    },
-    "done": true
-  },
-  "minecraft:nether/brew_potion": {
-    "criteria": {
-      "potion": "2025-01-15 16:39:04 +0000"
+      "in_water": "2025-01-17 01:37:25 +0000"
     },
     "done": true
   },
   "aquaculture:recipes/aquaculture/heavy_hook": {
     "criteria": {
-      "has_items": "2025-01-15 16:31:42 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/food/cooked_cod_from_smoking": {
-    "criteria": {
-      "has_cod": "2025-01-15 16:36:22 +0000"
+      "has_items": "2025-01-17 01:35:27 +0000"
     },
     "done": true
   },
   "mcwfences:recipes/dark_oak": {
     "criteria": {
-      "has_dark_oak": "2025-01-15 16:31:42 +0000"
+      "has_dark_oak": "2025-01-17 01:35:27 +0000"
     },
     "done": true
   },
   "aquaculture:recipes/decorations/birch_fish_mount": {
     "criteria": {
-      "has_items": "2025-01-15 16:31:42 +0000"
-    },
-    "done": true
-  },
-  "ironchest:recipes/decorations/upgrades/wood_to_iron_chest_upgrade": {
-    "criteria": {
-      "has_iron_ingot": "2025-01-15 16:45:49 +0000"
+      "has_items": "2025-01-17 01:35:27 +0000"
     },
     "done": true
   },
   "biomesoplenty:recipes/transportation/willow_boat": {
     "criteria": {
-      "in_water": "2025-01-15 16:35:02 +0000"
+      "in_water": "2025-01-17 01:37:25 +0000"
     },
     "done": true
   },
-  "mcwbridges:recipes/rope_spruce_bridge": {
+  "colourfulearth:recipes/decorations/dirt_dyed_orange": {
     "criteria": {
-      "has_planks": "2025-01-15 16:37:29 +0000"
-    },
-    "done": true
-  },
-  "tombstone:adventure/find_grave_dust": {
-    "criteria": {
-      "from_undead": "2025-01-15 16:50:39 +0000"
-    },
-    "done": true
-  },
-  "tombstone:recipes/from_grave_key": {
-    "criteria": {
-      "has_ingredient": "2025-01-15 17:09:06 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/combat/iron_helmet": {
-    "criteria": {
-      "has_iron_ingot": "2025-01-15 16:45:49 +0000"
+      "has_dirt": "2025-01-17 01:37:32 +0000"
     },
     "done": true
   },
   "aquaculture:recipes/misc/neptunium_ingot_from_neptunium_block": {
     "criteria": {
-      "has_items": "2025-01-15 16:31:42 +0000"
-    },
-    "done": true
-  },
-  "minecraft:story/mine_stone": {
-    "criteria": {
-      "get_stone": "2025-01-15 16:49:41 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/furnace": {
-    "criteria": {
-      "has_cobblestone": "2025-01-15 16:49:41 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/redstone_torch": {
-    "criteria": {
-      "has_redstone": "2025-01-15 16:38:46 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/green_concrete_powder": {
-    "criteria": {
-      "has_sand": "2025-01-15 16:37:33 +0000"
+      "has_items": "2025-01-17 01:35:27 +0000"
     },
     "done": true
   },
   "mcwfences:recipes/crimson": {
     "criteria": {
-      "has_crimson": "2025-01-15 16:31:42 +0000"
+      "has_crimson": "2025-01-17 01:35:27 +0000"
     },
     "done": true
   },
   "mcwfences:recipes/prismarine": {
     "criteria": {
-      "has_qq": "2025-01-15 16:31:42 +0000"
+      "has_qq": "2025-01-17 01:35:27 +0000"
     },
     "done": true
   },
   "deeperdarker:recipes/transportation/bloom_boat": {
     "criteria": {
-      "in_water": "2025-01-15 16:35:02 +0000"
+      "in_water": "2025-01-17 01:37:25 +0000"
     },
     "done": true
   },
   "mcwfences:recipes/quartz": {
     "criteria": {
-      "has_qq": "2025-01-15 16:31:42 +0000"
+      "has_qq": "2025-01-17 01:35:27 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/tools/wooden_axe": {
+  "colourfulearth:recipes/decorations/dirt_dyed_lime": {
     "criteria": {
-      "has_stick": "2025-01-15 16:38:08 +0000"
+      "has_dirt": "2025-01-17 01:37:32 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/misc/gold_nugget_from_blasting": {
+  "minecraft:recipes/decorations/dirt_washed_yellow.json": {
     "criteria": {
-      "has_golden_boots": "2025-01-15 16:35:33 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/blue_concrete_powder": {
-    "criteria": {
-      "has_sand": "2025-01-15 16:37:33 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/cooking/chicken_soup": {
-    "criteria": {
-      "has_any_ingredient": "2025-01-15 16:38:47 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/combat/leather_chestplate": {
-    "criteria": {
-      "has_leather": "2025-01-15 16:45:53 +0000"
+      "has_dirt": "2025-01-17 01:37:32 +0000"
     },
     "done": true
   },
   "aquaculture:recipes/misc/iron_nugget_from_smelting": {
     "criteria": {
-      "has_fishing_rod": "2025-01-15 16:31:42 +0000",
-      "has_fillet_knife": "2025-01-15 16:31:42 +0000"
+      "has_fishing_rod": "2025-01-17 01:35:27 +0000",
+      "has_fillet_knife": "2025-01-17 01:35:27 +0000"
     },
     "done": true
   },
-  "minecraft:adventure/shoot_arrow": {
+  "colourfulearth:recipes/decorations/dirt_dyed_blue": {
     "criteria": {
-      "shot_arrow": "2025-01-15 16:57:55 +0000"
-    },
-    "done": true
-  },
-  "nethersdelight:recipes/decorations/blackstone_blast_furnace": {
-    "criteria": {
-      "has_iron": "2025-01-15 16:45:49 +0000"
-    },
-    "done": true
-  },
-  "oceansdelight:recipes/oceansdelight/stuffed_cod": {
-    "criteria": {
-      "has_cod": "2025-01-15 16:36:22 +0000"
-    },
-    "done": true
-  },
-  "naturescompass:natures_compass": {
-    "criteria": {
-      "has_recipe": "2025-01-15 16:33:54 +0000"
+      "has_dirt": "2025-01-17 01:37:32 +0000"
     },
     "done": true
   },
   "minecraft:recipes/decorations/crafting_table": {
     "criteria": {
-      "unlock_right_away": "2025-01-15 16:31:42 +0000"
+      "unlock_right_away": "2025-01-17 01:35:27 +0000"
     },
     "done": true
   },
-  "ironchest:recipes/decorations/chests/copper_iron_chest": {
+  "colourfulearth:recipes/decorations/dirt_dyed_grey": {
     "criteria": {
-      "has_iron_ingot": "2025-01-15 16:45:49 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/chest": {
-    "criteria": {
-      "has_lots_of_items": "2025-01-15 16:36:16 +0000"
+      "has_dirt": "2025-01-17 01:37:32 +0000"
     },
     "done": true
   },
   "aquaculture:recipes/tools/golden_fishing_rod": {
     "criteria": {
-      "has_vanilla_rod": "2025-01-15 16:31:42 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/tools/shears": {
-    "criteria": {
-      "has_iron_ingot": "2025-01-15 16:45:49 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/stick": {
-    "criteria": {
-      "has_planks": "2025-01-15 16:37:29 +0000"
+      "has_vanilla_rod": "2025-01-17 01:35:27 +0000"
     },
     "done": true
   },
   "mcwfences:recipes/jungle": {
     "criteria": {
-      "has_jungle": "2025-01-15 16:31:42 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/brewing/golden_carrot": {
-    "criteria": {
-      "has_gold_nugget": "2025-01-15 16:35:32 +0000"
+      "has_jungle": "2025-01-17 01:35:27 +0000"
     },
     "done": true
   },
   "aquaculture:recipes/misc/gold_nugget_from_smelting": {
     "criteria": {
-      "has_fishing_rod": "2025-01-15 16:31:42 +0000",
-      "has_fillet_knife": "2025-01-15 16:31:41 +0000"
-    },
-    "done": true
-  },
-  "xercapaint:recipes/item_easel": {
-    "criteria": {
-      "has_item": "2025-01-15 16:38:08 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/red_dye_from_rose_bush": {
-    "criteria": {
-      "has_rose_bush": "2025-01-15 16:49:52 +0000"
-    },
-    "done": true
-  },
-  "biomesoplenty:recipes/misc/brown_dye_from_cattail": {
-    "criteria": {
-      "has_flower": "2025-01-15 16:40:08 +0000"
-    },
-    "done": true
-  },
-  "minecraft:adventure/sleep_in_bed": {
-    "criteria": {
-      "slept_in_bed": "2025-01-15 16:44:25 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/cobblestone_slab_from_cobblestone_stonecutting": {
-    "criteria": {
-      "has_cobblestone": "2025-01-15 16:49:41 +0000"
+      "has_fishing_rod": "2025-01-17 01:35:27 +0000",
+      "has_fillet_knife": "2025-01-17 01:35:27 +0000"
     },
     "done": true
   },
   "minecraft:recipes/transportation/cherry_boat": {
     "criteria": {
-      "in_water": "2025-01-15 16:35:02 +0000"
+      "in_water": "2025-01-17 01:37:25 +0000"
     },
     "done": true
-  },
-  "minecraft:adventure/kill_all_mobs": {
-    "criteria": {
-      "minecraft:pillager": "2025-01-15 16:55:38 +0000",
-      "minecraft:skeleton": "2025-01-15 17:03:31 +0000",
-      "minecraft:witch": "2025-01-15 16:38:23 +0000",
-      "minecraft:zombie": "2025-01-15 16:50:39 +0000"
-    },
-    "done": false
   },
   "biomesoplenty:recipes/transportation/umbran_boat": {
     "criteria": {
-      "in_water": "2025-01-15 16:35:02 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/iron_block": {
-    "criteria": {
-      "has_iron_ingot": "2025-01-15 16:45:49 +0000"
+      "in_water": "2025-01-17 01:37:25 +0000"
     },
     "done": true
   },
   "mcwfences:recipes/mangrove": {
     "criteria": {
-      "has_mangrove": "2025-01-15 16:31:42 +0000"
+      "has_mangrove": "2025-01-17 01:35:27 +0000"
     },
     "done": true
   },
   "mcwfences:recipes/warped": {
     "criteria": {
-      "has_warped": "2025-01-15 16:31:42 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:recipes/misc/ghost_chest": {
-    "criteria": {
-      "has_item": "2025-01-15 16:54:22 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/tripwire_hook": {
-    "criteria": {
-      "has_string": "2025-01-15 16:46:44 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/decorations/cooking_pot": {
-    "criteria": {
-      "has_iron_ingot": "2025-01-15 16:45:49 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/stone": {
-    "criteria": {
-      "has_cobblestone": "2025-01-15 16:49:41 +0000"
+      "has_warped": "2025-01-17 01:35:27 +0000"
     },
     "done": true
   },
   "minecraft:recipes/transportation/bamboo_raft": {
     "criteria": {
-      "in_water": "2025-01-15 16:35:02 +0000"
+      "in_water": "2025-01-17 01:37:25 +0000"
     },
     "done": true
   },
   "aquaculture:recipes/misc/bonemeal_from_fish_bones": {
     "criteria": {
-      "has_items": "2025-01-15 16:31:41 +0000"
+      "has_items": "2025-01-17 01:35:27 +0000"
     },
     "done": true
   },
-  "farmersdelight:recipes/cooking/baked_cod_stew": {
+  "colourfulearth:recipes/decorations/dirt_dyed_red": {
     "criteria": {
-      "has_any_ingredient": "2025-01-15 16:36:22 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/candle": {
-    "criteria": {
-      "has_string": "2025-01-15 16:46:44 +0000"
+      "has_dirt": "2025-01-17 01:37:32 +0000"
     },
     "done": true
   },
   "biomesoplenty:recipes/transportation/dead_boat": {
     "criteria": {
-      "in_water": "2025-01-15 16:35:02 +0000"
+      "in_water": "2025-01-17 01:37:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/dirt_washed_blue.json": {
+    "criteria": {
+      "has_dirt": "2025-01-17 01:37:32 +0000"
     },
     "done": true
   },
   "biomesoplenty:recipes/transportation/magic_boat": {
     "criteria": {
-      "in_water": "2025-01-15 16:35:02 +0000"
+      "in_water": "2025-01-17 01:37:25 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/misc/leather_horse_armor": {
+  "colourfulearth:recipes/decorations/dirt_dyed_brown": {
     "criteria": {
-      "has_leather": "2025-01-15 16:45:53 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/target": {
-    "criteria": {
-      "has_redstone": "2025-01-15 16:38:46 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/cooking/apple_cider": {
-    "criteria": {
-      "has_apple": "2025-01-15 16:45:08 +0000"
+      "has_dirt": "2025-01-17 01:37:32 +0000"
     },
     "done": true
   },
   "mcwfences:recipes/nether": {
     "criteria": {
-      "has_nether_brick": "2025-01-15 16:31:42 +0000"
+      "has_nether_brick": "2025-01-17 01:35:27 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/decorations/spruce_fence": {
+  "colourfulearth:recipes/decorations/dirt_dyed_magenta": {
     "criteria": {
-      "has_planks": "2025-01-15 16:37:29 +0000"
-    },
-    "done": true
-  },
-  "tombstone:adventure/first_knowledge": {
-    "criteria": {
-      "coded_trigger": "2025-01-15 16:38:23 +0000"
-    },
-    "done": true
-  },
-  "mcwbridges:recipes/iron_bridge_pier": {
-    "criteria": {
-      "has_planks": "2025-01-15 16:45:49 +0000"
-    },
-    "done": true
-  },
-  "betterarcheology:recipes/recipe_iron_brush": {
-    "criteria": {
-      "has_item": "2025-01-15 16:45:49 +0000",
-      "has_the_recipe": "2025-01-15 16:45:49 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/tools/compass": {
-    "criteria": {
-      "has_redstone": "2025-01-15 16:38:46 +0000"
-    },
-    "done": true
-  },
-  "explorerscompass:explorers_compass": {
-    "criteria": {
-      "has_recipe": "2025-01-15 16:54:20 +0000"
+      "has_dirt": "2025-01-17 01:37:32 +0000"
     },
     "done": true
   },
   "ecologics:recipes/ecologics/walnut_boat": {
     "criteria": {
-      "in_water": "2025-01-15 16:35:02 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/lime_concrete_powder": {
-    "criteria": {
-      "has_sand": "2025-01-15 16:37:33 +0000"
+      "in_water": "2025-01-17 01:37:25 +0000"
     },
     "done": true
   },
   "iceandfire:iceandfire/root": {
     "criteria": {
-      "tick": "2025-01-15 16:31:42 +0000"
+      "tick": "2025-01-17 01:35:27 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/redstone/spruce_button": {
+  "ironchest:recipes/decorations/chests/vanilla_dirt_chest": {
     "criteria": {
-      "has_planks": "2025-01-15 16:37:29 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/hopper": {
-    "criteria": {
-      "has_iron_ingot": "2025-01-15 16:45:49 +0000"
+      "has_iron_ingot": "2025-01-17 01:37:32 +0000"
     },
     "done": true
   },
   "mcwfences:recipes/bamboo": {
     "criteria": {
-      "has_bamboo": "2025-01-15 16:31:42 +0000"
+      "has_bamboo": "2025-01-17 01:35:27 +0000"
     },
     "done": true
   },
   "aquaculture:recipes/misc/brown_mushroom_from_fish": {
     "criteria": {
-      "has_items": "2025-01-15 16:31:42 +0000"
-    },
-    "done": true
-  },
-  "lootr:social": {
-    "criteria": {
-      "opened_barrel": "2025-01-15 16:36:18 +0000",
-      "opened_chest": "2025-01-15 16:35:31 +0000"
-    },
-    "done": false
-  },
-  "sophisticatedbackpacks:recipes/misc/backpack": {
-    "criteria": {
-      "has_leather": "2025-01-15 16:45:53 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/food/cooked_beef_from_smoking": {
-    "criteria": {
-      "has_beef": "2025-01-15 17:05:15 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/orange_concrete_powder": {
-    "criteria": {
-      "has_sand": "2025-01-15 16:37:33 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/food/cooked_porkchop": {
-    "criteria": {
-      "has_porkchop": "2025-01-15 16:44:52 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/food/roasted_mutton_chops": {
-    "criteria": {
-      "has_mutton": "2025-01-15 16:44:27 +0000"
-    },
-    "done": true
-  },
-  "mcwpaths:recipes/spruce": {
-    "criteria": {
-      "has_wood": "2025-01-15 16:37:29 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/combat/iron_boots": {
-    "criteria": {
-      "has_iron_ingot": "2025-01-15 16:45:49 +0000"
-    },
-    "done": true
-  },
-  "comforts:sleeping_bag_white": {
-    "criteria": {
-      "has_white_wool": "2025-01-15 17:02:48 +0000"
-    },
-    "done": true
-  },
-  "betterarcheology:recipes/bomb": {
-    "criteria": {
-      "has_the_recipe": "2025-01-15 16:38:43 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/spruce_pressure_plate": {
-    "criteria": {
-      "has_planks": "2025-01-15 16:37:29 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/tools/stone_pickaxe": {
-    "criteria": {
-      "has_cobblestone": "2025-01-15 16:49:41 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/lantern": {
-    "criteria": {
-      "has_iron_nugget": "2025-01-15 16:35:33 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/magenta_concrete_powder": {
-    "criteria": {
-      "has_sand": "2025-01-15 16:37:33 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/campfire": {
-    "criteria": {
-      "has_coal": "2025-01-15 16:36:22 +0000"
-    },
-    "done": true
-  },
-  "aquaculture:recipes/tools/wooden_fillet_knife": {
-    "criteria": {
-      "has_items": "2025-01-15 16:38:08 +0000"
+      "has_items": "2025-01-17 01:35:27 +0000"
     },
     "done": true
   },
   "mcwfences:recipes/spruce": {
     "criteria": {
-      "has_spruce": "2025-01-15 16:31:42 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/tools/wooden_hoe": {
-    "criteria": {
-      "has_stick": "2025-01-15 16:38:08 +0000"
-    },
-    "done": true
-  },
-  "tombstone:adventure/first_grave": {
-    "criteria": {
-      "coded_trigger": "2025-01-15 17:09:04 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/food/cooked_chicken_from_smoking": {
-    "criteria": {
-      "has_chicken": "2025-01-15 17:12:19 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/charcoal": {
-    "criteria": {
-      "has_log": "2025-01-15 16:33:54 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/tools/iron_shovel": {
-    "criteria": {
-      "has_iron_ingot": "2025-01-15 16:45:49 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/food/cooked_salmon_from_campfire_cooking": {
-    "criteria": {
-      "has_salmon": "2025-01-15 16:36:16 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/item_frame": {
-    "criteria": {
-      "has_leather": "2025-01-15 16:45:53 +0000"
-    },
-    "done": true
-  },
-  "nethersdelight:recipes/tools/iron_machete": {
-    "criteria": {
-      "has_iron_ingot": "2025-01-15 16:45:49 +0000"
-    },
-    "done": true
-  },
-  "naturescompass:natures_compass_log": {
-    "criteria": {
-      "has_log": "2025-01-15 16:33:54 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/cooking/pasta_with_meatballs": {
-    "criteria": {
-      "has_any_ingredient": "2025-01-15 17:05:15 +0000"
-    },
-    "done": true
-  },
-  "lootr:25loot": {
-    "criteria": {
-      "loot_stat": "2025-01-15 17:08:49 +0000"
+      "has_spruce": "2025-01-17 01:35:27 +0000"
     },
     "done": true
   },
   "aquaculture:recipes/misc/neptinium_ingot_from_blasting": {
     "criteria": {
-      "has_leggings": "2025-01-15 16:31:42 +0000",
-      "has_axe": "2025-01-15 16:31:41 +0000",
-      "has_helmet": "2025-01-15 16:31:42 +0000",
-      "has_fishing_rod": "2025-01-15 16:31:42 +0000",
-      "has_bow": "2025-01-15 16:31:41 +0000",
-      "has_chestplate": "2025-01-15 16:31:41 +0000",
-      "has_sword": "2025-01-15 16:31:42 +0000",
-      "has_fillet_knife": "2025-01-15 16:31:41 +0000",
-      "has_shovel": "2025-01-15 16:31:42 +0000",
-      "has_hoe": "2025-01-15 16:31:42 +0000",
-      "has_boots": "2025-01-15 16:31:41 +0000",
-      "has_pickaxe": "2025-01-15 16:31:42 +0000"
-    },
-    "done": true
-  },
-  "lootr:1barrel": {
-    "criteria": {
-      "opened_barrel": "2025-01-15 16:36:18 +0000"
-    },
-    "done": true
-  },
-  "biomesoplenty:biomesoplenty/root": {
-    "criteria": {
-      "wetland": "2025-01-15 16:37:43 +0000"
+      "has_leggings": "2025-01-17 01:35:27 +0000",
+      "has_axe": "2025-01-17 01:35:27 +0000",
+      "has_helmet": "2025-01-17 01:35:27 +0000",
+      "has_fishing_rod": "2025-01-17 01:35:27 +0000",
+      "has_bow": "2025-01-17 01:35:27 +0000",
+      "has_chestplate": "2025-01-17 01:35:27 +0000",
+      "has_sword": "2025-01-17 01:35:27 +0000",
+      "has_fillet_knife": "2025-01-17 01:35:27 +0000",
+      "has_shovel": "2025-01-17 01:35:27 +0000",
+      "has_hoe": "2025-01-17 01:35:27 +0000",
+      "has_boots": "2025-01-17 01:35:27 +0000",
+      "has_pickaxe": "2025-01-17 01:35:27 +0000"
     },
     "done": true
   },
   "aquaculture:recipes/decorations/dark_oak_fish_mount": {
     "criteria": {
-      "has_items": "2025-01-15 16:31:42 +0000"
+      "has_items": "2025-01-17 01:35:27 +0000"
     },
     "done": true
   },
-  "iceandfire:recipes/food/gold_pile": {
+  "minecraft:recipes/decorations/dirt_washed_orange.json": {
     "criteria": {
-      "has_item": "2025-01-15 16:35:32 +0000"
+      "has_dirt": "2025-01-17 01:37:32 +0000"
     },
     "done": true
   },
-  "ironchest:recipes/decorations/upgrades/copper_to_iron_chest_upgrade": {
+  "minecraft:recipes/decorations/dirt_washed_light_blue.json": {
     "criteria": {
-      "has_iron_ingot": "2025-01-15 16:45:49 +0000"
+      "has_dirt": "2025-01-17 01:37:32 +0000"
     },
     "done": true
   },
-  "mcwbridges:recipes/bridge_lantern": {
+  "colourfulearth:recipes/decorations/dirt_dyed_cyan": {
     "criteria": {
-      "has_planks": "2025-01-15 16:36:22 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/tools/wooden_shovel": {
-    "criteria": {
-      "has_stick": "2025-01-15 16:38:08 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/dispenser": {
-    "criteria": {
-      "has_bow": "2025-01-15 16:43:39 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/cobblestone_slab": {
-    "criteria": {
-      "has_cobblestone": "2025-01-15 16:49:41 +0000"
-    },
-    "done": true
-  },
-  "mcwbridges:recipes/iron_bridge": {
-    "criteria": {
-      "has_planks": "2025-01-15 16:45:49 +0000"
-    },
-    "done": true
-  },
-  "naturescompass:natures_compass_sapling": {
-    "criteria": {
-      "has_recipe": "2025-01-15 16:33:54 +0000"
-    },
-    "done": true
-  },
-  "new_slab_variants:recipes/building_blocks/spruce_log_slab": {
-    "criteria": {
-      "has_spruce_log": "2025-01-15 16:33:54 +0000"
-    },
-    "done": true
-  },
-  "ironchest:recipes/decorations/chests/vanilla_iron_chest": {
-    "criteria": {
-      "has_iron_ingot": "2025-01-15 16:45:49 +0000"
+      "has_dirt": "2025-01-17 01:37:32 +0000"
     },
     "done": true
   },
   "minecraft:recipes/transportation/acacia_boat": {
     "criteria": {
-      "in_water": "2025-01-15 16:35:02 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/iron_trapdoor": {
-    "criteria": {
-      "has_iron_ingot": "2025-01-15 16:45:49 +0000"
-    },
-    "done": true
-  },
-  "minecraft:adventure/root": {
-    "criteria": {
-      "killed_something": "2025-01-15 16:38:23 +0000"
+      "in_water": "2025-01-17 01:37:25 +0000"
     },
     "done": true
   },
   "aquaculture:recipes/decorations/acacia_fish_mount": {
     "criteria": {
-      "has_items": "2025-01-15 16:31:41 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/redstone_block": {
-    "criteria": {
-      "has_redstone": "2025-01-15 16:38:46 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/slime_block": {
-    "criteria": {
-      "has_slime_ball": "2025-01-15 16:38:38 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/combat/wooden_sword": {
-    "criteria": {
-      "has_stick": "2025-01-15 16:38:08 +0000"
+      "has_items": "2025-01-17 01:35:27 +0000"
     },
     "done": true
   },
   "aquaculture:recipes/aquaculture/diamond_hook": {
     "criteria": {
-      "has_items": "2025-01-15 16:31:42 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/black_concrete_powder": {
-    "criteria": {
-      "has_sand": "2025-01-15 16:37:33 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/combat/crossbow": {
-    "criteria": {
-      "has_iron_ingot": "2025-01-15 16:45:49 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/food/shepherds_pie_block": {
-    "criteria": {
-      "has_cooked_mutton": "2025-01-15 16:44:27 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/food/cooked_porkchop_from_smoking": {
-    "criteria": {
-      "has_porkchop": "2025-01-15 16:44:52 +0000"
+      "has_items": "2025-01-17 01:35:27 +0000"
     },
     "done": true
   },
   "betterdungeons:root": {
     "criteria": {
-      "always": "2025-01-15 16:31:42 +0000"
+      "always": "2025-01-17 01:35:27 +0000"
     },
     "done": true
   },
   "aquaculture:recipes/food/sushi": {
     "criteria": {
-      "has_alt_items": "2025-01-15 16:31:41 +0000",
-      "has_items": "2025-01-15 16:31:42 +0000"
+      "has_alt_items": "2025-01-17 01:35:27 +0000",
+      "has_items": "2025-01-17 01:35:27 +0000"
     },
     "done": true
   },
-  "tombstone:recipes/from_grave_dust": {
+  "colourfulearth:recipes/decorations/dirt_dyed_purple": {
     "criteria": {
-      "has_ingredient": "2025-01-15 16:50:44 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/barrel": {
-    "criteria": {
-      "has_planks": "2025-01-15 16:37:29 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/combat/leather_boots": {
-    "criteria": {
-      "has_leather": "2025-01-15 16:45:53 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/cobblestone_wall_from_cobblestone_stonecutting": {
-    "criteria": {
-      "has_cobblestone": "2025-01-15 16:49:41 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/grindstone": {
-    "criteria": {
-      "has_stone_slab": "2025-01-15 17:00:04 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/white_bed": {
-    "criteria": {
-      "has_white_wool": "2025-01-15 17:02:48 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/firework_rocket_simple": {
-    "criteria": {
-      "has_gunpowder": "2025-01-15 16:38:43 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/cobblestone_stairs": {
-    "criteria": {
-      "has_cobblestone": "2025-01-15 16:49:41 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/combat/iron_knife": {
-    "criteria": {
-      "has_iron_ingot": "2025-01-15 16:45:49 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/purple_concrete_powder": {
-    "criteria": {
-      "has_sand": "2025-01-15 16:37:33 +0000"
+      "has_dirt": "2025-01-17 01:37:32 +0000"
     },
     "done": true
   },
   "aquaculture:recipes/aquaculture/light_hook": {
     "criteria": {
-      "has_items": "2025-01-15 16:31:42 +0000"
+      "has_items": "2025-01-17 01:35:27 +0000"
     },
     "done": true
   },
   "aquaculture:recipes/misc/red_mushroom_from_fish": {
     "criteria": {
-      "has_items": "2025-01-15 16:31:42 +0000"
+      "has_items": "2025-01-17 01:35:27 +0000"
     },
     "done": true
   },
   "aquaculture:recipes/building_blocks/planks_from_driftwood": {
     "criteria": {
-      "has_items": "2025-01-15 16:31:42 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/cyan_concrete_powder": {
-    "criteria": {
-      "has_sand": "2025-01-15 16:37:33 +0000"
-    },
-    "done": true
-  },
-  "aquamirae:adventure/root": {
-    "criteria": {
-      "crafting_table": "2025-01-15 16:38:02 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/tools/stone_shovel": {
-    "criteria": {
-      "has_cobblestone": "2025-01-15 16:49:41 +0000"
+      "has_items": "2025-01-17 01:35:27 +0000"
     },
     "done": true
   },
   "tombstone:adventure/root": {
     "criteria": {
-      "auto": "2025-01-15 16:31:43 +0000"
+      "auto": "2025-01-17 01:35:28 +0000"
     },
     "done": true
   },
   "mcwfences:recipes/birch": {
     "criteria": {
-      "has_birch": "2025-01-15 16:31:41 +0000"
-    },
-    "done": true
-  },
-  "betterarcheology:recipes/combat/bomb": {
-    "criteria": {
-      "has_gunpowder": "2025-01-15 16:38:43 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/food/cooked_beef": {
-    "criteria": {
-      "has_beef": "2025-01-15 17:05:15 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/iron_ingot_from_nuggets": {
-    "criteria": {
-      "has_iron_nugget": "2025-01-15 16:35:33 +0000"
+      "has_birch": "2025-01-17 01:35:27 +0000"
     },
     "done": true
   },
   "minecraft:recipes/transportation/jungle_boat": {
     "criteria": {
-      "in_water": "2025-01-15 16:35:02 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/heavy_weighted_pressure_plate": {
-    "criteria": {
-      "has_iron_ingot": "2025-01-15 16:45:49 +0000"
+      "in_water": "2025-01-17 01:37:25 +0000"
     },
     "done": true
   },
   "twilightforest:recipes/transportation/twilight_oak_boat": {
     "criteria": {
-      "in_water": "2025-01-15 16:35:02 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/lever": {
-    "criteria": {
-      "has_cobblestone": "2025-01-15 16:49:41 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/cooking/dog_food": {
-    "criteria": {
-      "has_any_ingredient": "2025-01-15 16:50:45 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/magenta_dye_from_lilac": {
-    "criteria": {
-      "has_lilac": "2025-01-15 16:55:33 +0000"
+      "in_water": "2025-01-17 01:37:25 +0000"
     },
     "done": true
   },
   "twilightforest:recipes/transportation/time_boat": {
     "criteria": {
-      "in_water": "2025-01-15 16:35:02 +0000"
+      "in_water": "2025-01-17 01:37:25 +0000"
     },
     "done": true
   },
   "mcwfences:recipes/stone": {
     "criteria": {
-      "has_stone": "2025-01-15 16:31:42 +0000"
-    },
-    "done": true
-  },
-  "lootr:1chest": {
-    "criteria": {
-      "opened_chest": "2025-01-15 16:35:31 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/combat/iron_leggings": {
-    "criteria": {
-      "has_iron_ingot": "2025-01-15 16:45:49 +0000"
+      "has_stone": "2025-01-17 01:35:27 +0000"
     },
     "done": true
   },
   "mcwfences:recipes/end": {
     "criteria": {
-      "has_end_brick": "2025-01-15 16:31:41 +0000"
+      "has_end_brick": "2025-01-17 01:35:27 +0000"
     },
     "done": true
   },
   "twilightforest:recipes/transportation/mining_boat": {
     "criteria": {
-      "in_water": "2025-01-15 16:35:02 +0000"
+      "in_water": "2025-01-17 01:37:25 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/light_gray_concrete_powder": {
+  "colourfulearth:recipes/decorations/dirt_dyed_yellow": {
     "criteria": {
-      "has_sand": "2025-01-15 16:37:33 +0000"
+      "has_dirt": "2025-01-17 01:37:32 +0000"
     },
     "done": true
   },
   "aquaculture:recipes/aquaculture/worm_farm": {
     "criteria": {
-      "has_items": "2025-01-15 16:31:42 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:recipes/misc/dragon_meal": {
-    "criteria": {
-      "has_item": "2025-01-15 16:43:27 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/combat/leather_leggings": {
-    "criteria": {
-      "has_leather": "2025-01-15 16:45:53 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/pink_concrete_powder": {
-    "criteria": {
-      "has_sand": "2025-01-15 16:37:33 +0000"
-    },
-    "done": true
-  },
-  "minecraft:story/obtain_armor": {
-    "criteria": {
-      "iron_boots": "2025-01-15 16:56:14 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/cooking/fish_stew": {
-    "criteria": {
-      "has_any_ingredient": "2025-01-15 16:36:16 +0000"
+      "has_items": "2025-01-17 01:35:27 +0000"
     },
     "done": true
   },
   "aquaculture:recipes/tools/iron_fishing_rod": {
     "criteria": {
-      "has_vanilla_rod": "2025-01-15 16:31:41 +0000"
+      "has_vanilla_rod": "2025-01-17 01:35:27 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/misc/iron_nugget_from_smelting": {
+  "minecraft:recipes/decorations/dirt_washed_lime.json": {
     "criteria": {
-      "has_iron_pickaxe": "2025-01-15 16:49:33 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/food/baked_potato_from_campfire_cooking": {
-    "criteria": {
-      "has_potato": "2025-01-15 17:07:08 +0000"
-    },
-    "done": true
-  },
-  "minecraft:story/iron_tools": {
-    "criteria": {
-      "iron_pickaxe": "2025-01-15 16:49:33 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/combat/iron_chestplate": {
-    "criteria": {
-      "has_iron_ingot": "2025-01-15 16:45:49 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/combat/stone_sword": {
-    "criteria": {
-      "has_cobblestone": "2025-01-15 16:49:41 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/cobblestone_wall": {
-    "criteria": {
-      "has_cobblestone": "2025-01-15 16:49:41 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/gold_nugget_from_smelting": {
-    "criteria": {
-      "has_golden_boots": "2025-01-15 16:35:33 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/food/cooked_chicken": {
-    "criteria": {
-      "has_chicken": "2025-01-15 17:12:19 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/tools/stone_axe": {
-    "criteria": {
-      "has_cobblestone": "2025-01-15 16:49:41 +0000"
+      "has_dirt": "2025-01-17 01:37:32 +0000"
     },
     "done": true
   },
   "aquaculture:recipes/aquaculture/note_hook": {
     "criteria": {
-      "has_items": "2025-01-15 16:31:42 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/iron_nugget": {
-    "criteria": {
-      "has_iron_ingot": "2025-01-15 16:45:49 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/brown_concrete_powder": {
-    "criteria": {
-      "has_sand": "2025-01-15 16:37:33 +0000"
+      "has_items": "2025-01-17 01:35:27 +0000"
     },
     "done": true
   },
   "aquaculture:recipes/food/cooked_fish_fillet_from_campfire": {
     "criteria": {
-      "has_items": "2025-01-15 16:31:42 +0000"
+      "has_items": "2025-01-17 01:35:27 +0000"
     },
     "done": true
   },
-  "farmersdelight:recipes/combat/flint_knife": {
+  "minecraft:recipes/decorations/dirt_washed_grey.json": {
     "criteria": {
-      "has_stick": "2025-01-15 16:38:08 +0000"
+      "has_dirt": "2025-01-17 01:37:32 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/misc/bucket": {
+  "minecraft:recipes/decorations/dirt_washed_green.json": {
     "criteria": {
-      "has_iron_ingot": "2025-01-15 16:45:49 +0000"
+      "has_dirt": "2025-01-17 01:37:32 +0000"
     },
     "done": true
   },
-  "iceandfire:recipes/misc/blindfold": {
+  "minecraft:recipes/decorations/dirt_washed_cyan.json": {
     "criteria": {
-      "has_item": "2025-01-15 16:45:53 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/light_blue_concrete_powder": {
-    "criteria": {
-      "has_sand": "2025-01-15 16:37:33 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/glass": {
-    "criteria": {
-      "has_smelts_to_glass": "2025-01-15 16:37:33 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/combat/bow": {
-    "criteria": {
-      "has_string": "2025-01-15 16:46:44 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/transportation/minecart": {
-    "criteria": {
-      "has_iron_ingot": "2025-01-15 16:45:49 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/tools/iron_hoe": {
-    "criteria": {
-      "has_iron_ingot": "2025-01-15 16:45:49 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/tools/clock": {
-    "criteria": {
-      "has_redstone": "2025-01-15 16:38:46 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/food/baked_potato": {
-    "criteria": {
-      "has_potato": "2025-01-15 17:07:08 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/gold_ingot_from_nuggets": {
-    "criteria": {
-      "has_gold_nugget": "2025-01-15 16:35:32 +0000"
-    },
-    "done": true
-  },
-  "alexsmobs:alexsmobs/root": {
-    "criteria": {
-      "useitem": "2025-01-15 16:34:35 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/spruce_sign": {
-    "criteria": {
-      "has_planks": "2025-01-15 16:37:29 +0000"
+      "has_dirt": "2025-01-17 01:37:32 +0000"
     },
     "done": true
   },
   "mcwfences:recipes/sandstone": {
     "criteria": {
-      "has_sand": "2025-01-15 16:31:42 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/cooking/noodle_soup": {
-    "criteria": {
-      "has_any_ingredient": "2025-01-15 16:44:52 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/painting": {
-    "criteria": {
-      "has_wool": "2025-01-15 17:02:48 +0000"
+      "has_sand": "2025-01-17 01:35:27 +0000"
     },
     "done": true
   },
   "aquaculture:recipes/aquaculture/gold_hook": {
     "criteria": {
-      "has_items": "2025-01-15 16:31:42 +0000"
+      "has_items": "2025-01-17 01:35:27 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/food/cooked_salmon": {
+  "colourfulearth:recipes/decorations/dirt_dyed_light_blue": {
     "criteria": {
-      "has_salmon": "2025-01-15 16:36:16 +0000"
+      "has_dirt": "2025-01-17 01:37:32 +0000"
     },
     "done": true
   },
   "aquaculture:recipes/decorations/oak_fish_mount": {
     "criteria": {
-      "has_items": "2025-01-15 16:31:41 +0000"
+      "has_items": "2025-01-17 01:35:27 +0000"
     },
     "done": true
   },
   "mcwfences:recipes/acacia": {
     "criteria": {
-      "has_acacia": "2025-01-15 16:31:41 +0000"
+      "has_acacia": "2025-01-17 01:35:27 +0000"
     },
     "done": true
   },
   "twilightforest:recipes/transportation/mangrove_boat": {
     "criteria": {
-      "in_water": "2025-01-15 16:35:02 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/cooking/vegetable_noodles": {
-    "criteria": {
-      "has_any_ingredient": "2025-01-15 16:38:47 +0000"
-    },
-    "done": true
-  },
-  "minecraft:story/smelt_iron": {
-    "criteria": {
-      "iron": "2025-01-15 16:45:49 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/tools/fishing_rod": {
-    "criteria": {
-      "has_string": "2025-01-15 16:46:44 +0000"
-    },
-    "done": true
-  },
-  "toolbelt:recipes/pouch": {
-    "criteria": {
-      "has_leather": "2025-01-15 16:45:53 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/emerald_block": {
-    "criteria": {
-      "has_emerald": "2025-01-15 16:36:14 +0000"
+      "in_water": "2025-01-17 01:37:25 +0000"
     },
     "done": true
   },
   "mcwfences:recipes/oak": {
     "criteria": {
-      "has_oak": "2025-01-15 16:31:42 +0000"
+      "has_oak": "2025-01-17 01:35:27 +0000"
     },
     "done": true
   },
   "biomesoplenty:recipes/transportation/fir_boat": {
     "criteria": {
-      "in_water": "2025-01-15 16:35:02 +0000"
+      "in_water": "2025-01-17 01:37:25 +0000"
     },
     "done": true
   },
   "aquaculture:recipes/decorations/spruce_fish_mount": {
     "criteria": {
-      "has_items": "2025-01-15 16:31:42 +0000"
+      "has_items": "2025-01-17 01:35:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/dirt_washed_light_grey.json": {
+    "criteria": {
+      "has_dirt": "2025-01-17 01:37:32 +0000"
     },
     "done": true
   },
   "twilightforest:recipes/transportation/transformation_boat": {
     "criteria": {
-      "in_water": "2025-01-15 16:35:02 +0000"
-    },
-    "done": true
-  },
-  "biomesoplenty:biomesoplenty/all_biomes": {
-    "criteria": {
-      "highland": "2025-01-15 16:43:16 +0000",
-      "wetland": "2025-01-15 16:37:43 +0000",
-      "maple_woods": "2025-01-15 16:43:45 +0000",
-      "field": "2025-01-15 16:40:57 +0000",
-      "coniferous_forest": "2025-01-15 17:00:40 +0000",
-      "seasonal_forest": "2025-01-15 16:49:12 +0000",
-      "ominous_woods": "2025-01-15 16:41:29 +0000"
-    },
-    "done": false
-  },
-  "aquaculture:recipes/tools/iron_fillet_knife": {
-    "criteria": {
-      "has_items": "2025-01-15 16:45:49 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/white_concrete_powder": {
-    "criteria": {
-      "has_sand": "2025-01-15 16:37:33 +0000"
-    },
-    "done": true
-  },
-  "illagerinvasion:recipes/misc/platinum_sheet": {
-    "criteria": {
-      "has_platinum_chunk": "2025-01-15 16:55:50 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/chain": {
-    "criteria": {
-      "has_iron_nugget": "2025-01-15 16:35:33 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/food/cooked_porkchop_from_campfire_cooking": {
-    "criteria": {
-      "has_porkchop": "2025-01-15 16:44:52 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/cooking/pumpkin_soup": {
-    "criteria": {
-      "has_any_ingredient": "2025-01-15 16:44:52 +0000"
+      "in_water": "2025-01-17 01:37:25 +0000"
     },
     "done": true
   },
   "mcwfences:recipes/mud_brick": {
     "criteria": {
-      "has_qq": "2025-01-15 16:31:42 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/spruce_wood": {
-    "criteria": {
-      "has_log": "2025-01-15 16:33:54 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/bone_meal": {
-    "criteria": {
-      "has_bone": "2025-01-15 16:54:20 +0000"
+      "has_qq": "2025-01-17 01:35:27 +0000"
     },
     "done": true
   },
   "lootr:root": {
     "criteria": {
-      "always_true": "2025-01-15 16:31:42 +0000"
+      "always_true": "2025-01-17 01:35:27 +0000"
     },
     "done": true
   },
   "mcwfences:recipes/blackstone": {
     "criteria": {
-      "has_blackstone": "2025-01-15 16:31:42 +0000"
-    },
-    "done": true
-  },
-  "new_slab_variants:recipes/building_blocks/white_wool_slab": {
-    "criteria": {
-      "has_white_wool": "2025-01-15 17:02:48 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:recipes/misc/earplugs": {
-    "criteria": {
-      "has_item": "2025-01-15 16:37:29 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/smithing_table": {
-    "criteria": {
-      "has_iron_ingot": "2025-01-15 16:45:49 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:recipes/food/ambrosia": {
-    "criteria": {
-      "has_item": "2025-01-15 17:05:42 +0000"
+      "has_blackstone": "2025-01-17 01:35:27 +0000"
     },
     "done": true
   },
   "aquaculture:recipes/aquaculture/double_hook": {
     "criteria": {
-      "has_items": "2025-01-15 16:31:42 +0000"
+      "has_items": "2025-01-17 01:35:27 +0000"
     },
     "done": true
   },
-  "explorerscompass:explorers_compass_cobweb": {
+  "minecraft:recipes/decorations/dirt_washed_pink.json": {
     "criteria": {
-      "has_cobweb": "2025-01-15 16:54:20 +0000"
+      "has_dirt": "2025-01-17 01:37:32 +0000"
     },
     "done": true
   },
   "minecraft:recipes/transportation/spruce_boat": {
     "criteria": {
-      "in_water": "2025-01-15 16:35:02 +0000"
-    },
-    "done": true
-  },
-  "alexscaves:alexscaves/cave_tablet": {
-    "criteria": {
-      "cave_tablet": "2025-01-15 16:38:46 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:recipes/misc/bestiary": {
-    "criteria": {
-      "has_item": "2025-01-15 16:54:22 +0000"
+      "in_water": "2025-01-17 01:37:25 +0000"
     },
     "done": true
   },
   "mcwfences:recipes/hedge": {
     "criteria": {
-      "has_birch": "2025-01-15 16:31:42 +0000"
+      "has_birch": "2025-01-17 01:35:27 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/redstone/note_block": {
+  "minecraft:recipes/decorations/dirt_washed_magenta.json": {
     "criteria": {
-      "has_redstone": "2025-01-15 16:38:46 +0000"
-    },
-    "done": true
-  },
-  "minecraft:husbandry/root": {
-    "criteria": {
-      "consumed_item": "2025-01-15 16:34:35 +0000"
+      "has_dirt": "2025-01-17 01:37:32 +0000"
     },
     "done": true
   },
   "minecraft:recipes/transportation/birch_boat": {
     "criteria": {
-      "in_water": "2025-01-15 16:35:02 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/white_carpet": {
-    "criteria": {
-      "has_white_wool": "2025-01-15 17:02:48 +0000"
+      "in_water": "2025-01-17 01:37:25 +0000"
     },
     "done": true
   },
   "betterdeserttemples:root": {
     "criteria": {
-      "always": "2025-01-15 16:31:42 +0000"
+      "always": "2025-01-17 01:35:27 +0000"
+    },
+    "done": true
+  },
+  "colourfulearth:recipes/decorations/dirt_dyed_light_grey": {
+    "criteria": {
+      "has_dirt": "2025-01-17 01:37:32 +0000"
     },
     "done": true
   },
   "aquaculture:recipes/aquaculture/fishing_line": {
     "criteria": {
-      "has_items": "2025-01-15 16:31:42 +0000"
+      "has_items": "2025-01-17 01:35:27 +0000"
     },
     "done": true
   },
   "minecraft:recipes/transportation/oak_boat": {
     "criteria": {
-      "in_water": "2025-01-15 16:35:02 +0000"
+      "in_water": "2025-01-17 01:37:25 +0000"
     },
     "done": true
   },
   "aquaculture:recipes/misc/tin_can_to_iron_nugget_from_blasting": {
     "criteria": {
-      "has_items": "2025-01-15 16:31:42 +0000"
+      "has_items": "2025-01-17 01:35:27 +0000"
     },
     "done": true
   },
   "biomesoplenty:recipes/transportation/redwood_boat": {
     "criteria": {
-      "in_water": "2025-01-15 16:35:02 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/coal_block": {
-    "criteria": {
-      "has_coal": "2025-01-15 16:36:22 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/spruce_slab": {
-    "criteria": {
-      "has_planks": "2025-01-15 16:37:29 +0000"
+      "in_water": "2025-01-17 01:37:25 +0000"
     },
     "done": true
   },
   "cataclysm:root": {
     "criteria": {
-      "custom_test_name": "2025-01-15 16:31:42 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/tools/lead": {
-    "criteria": {
-      "has_slime_ball": "2025-01-15 16:38:38 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/cooking/fried_rice": {
-    "criteria": {
-      "has_any_ingredient": "2025-01-15 16:38:47 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/decorated_pot_simple": {
-    "criteria": {
-      "has_brick": "2025-01-15 16:36:14 +0000"
+      "custom_test_name": "2025-01-17 01:35:27 +0000"
     },
     "done": true
   },
   "aquaculture:recipes/aquaculture/iron_hook": {
     "criteria": {
-      "has_items": "2025-01-15 16:31:42 +0000"
+      "has_items": "2025-01-17 01:35:27 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/combat/iron_sword": {
+  "colourfulearth:recipes/decorations/dirt_dyed_green": {
     "criteria": {
-      "has_iron_ingot": "2025-01-15 16:45:49 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/tools/iron_pickaxe": {
-    "criteria": {
-      "has_iron_ingot": "2025-01-15 16:45:49 +0000"
+      "has_dirt": "2025-01-17 01:37:32 +0000"
     },
     "done": true
   },
   "minecraft:recipes/transportation/mangrove_boat": {
     "criteria": {
-      "in_water": "2025-01-15 16:35:02 +0000"
+      "in_water": "2025-01-17 01:37:25 +0000"
     },
     "done": true
   },
-  "mcwbridges:recipes/cobblestone_bridge": {
+  "minecraft:recipes/decorations/dirt_washed_white.json": {
     "criteria": {
-      "has_planks": "2025-01-15 16:49:41 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/combat/shield": {
-    "criteria": {
-      "has_iron_ingot": "2025-01-15 16:45:49 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/iron_bars": {
-    "criteria": {
-      "has_iron_ingot": "2025-01-15 16:45:49 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/spruce_planks": {
-    "criteria": {
-      "has_logs": "2025-01-15 16:33:54 +0000"
+      "has_dirt": "2025-01-17 01:37:32 +0000"
     },
     "done": true
   },
   "aquaculture:recipes/misc/jellyfish_to_slimeball": {
     "criteria": {
-      "has_items": "2025-01-15 16:31:42 +0000"
+      "has_items": "2025-01-17 01:35:27 +0000"
     },
     "done": true
   },
   "mcwfences:recipes/deepslate": {
     "criteria": {
-      "has_deepslate": "2025-01-15 16:31:42 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/food/cooked_salmon_from_smoking": {
-    "criteria": {
-      "has_salmon": "2025-01-15 16:36:16 +0000"
+      "has_deepslate": "2025-01-17 01:35:27 +0000"
     },
     "done": true
   },
   "aquaculture:recipes/aquaculture/redstone_hook": {
     "criteria": {
-      "has_items": "2025-01-15 16:31:42 +0000"
+      "has_items": "2025-01-17 01:35:27 +0000"
     },
     "done": true
   },
-  "explorerscompass:explorers_compass_cracked_stone_bricks": {
+  "minecraft:recipes/decorations/dirt_washed_purple.json": {
     "criteria": {
-      "has_recipe": "2025-01-15 16:54:20 +0000"
+      "has_dirt": "2025-01-17 01:37:32 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/redstone/sticky_piston": {
+  "colourfulearth:recipes/decorations/dirt_dyed_black": {
     "criteria": {
-      "has_slime_ball": "2025-01-15 16:38:38 +0000"
+      "has_dirt": "2025-01-17 01:37:32 +0000"
     },
     "done": true
   },
   "biomesoplenty:recipes/transportation/hellbark_boat": {
     "criteria": {
-      "in_water": "2025-01-15 16:35:02 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/brewing/fermented_spider_eye": {
-    "criteria": {
-      "has_spider_eye": "2025-01-15 16:38:56 +0000"
+      "in_water": "2025-01-17 01:37:25 +0000"
     },
     "done": true
   },
   "aquaculture:recipes/misc/gold_nugget_from_blasting": {
     "criteria": {
-      "has_fishing_rod": "2025-01-15 16:31:42 +0000",
-      "has_fillet_knife": "2025-01-15 16:31:42 +0000"
-    },
-    "done": true
-  },
-  "mcwbridges:recipes/spruce_log_bridge_middle": {
-    "criteria": {
-      "has_planks": "2025-01-15 16:37:29 +0000"
+      "has_fishing_rod": "2025-01-17 01:35:27 +0000",
+      "has_fillet_knife": "2025-01-17 01:35:27 +0000"
     },
     "done": true
   },
   "biomesoplenty:recipes/transportation/jacaranda_boat": {
     "criteria": {
-      "in_water": "2025-01-15 16:35:02 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/cooking/beef_stew": {
-    "criteria": {
-      "has_any_ingredient": "2025-01-15 16:38:47 +0000"
+      "in_water": "2025-01-17 01:37:25 +0000"
     },
     "done": true
   },
   "aquaculture:recipes/aquaculture/bobber": {
     "criteria": {
-      "has_items": "2025-01-15 16:31:42 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/food/cooked_mutton": {
-    "criteria": {
-      "has_mutton": "2025-01-15 16:43:27 +0000"
-    },
-    "done": true
-  },
-  "tombstone:adventure/ambush": {
-    "criteria": {
-      "coded_trigger": "2025-01-15 16:38:23 +0000"
+      "has_items": "2025-01-17 01:35:27 +0000"
     },
     "done": true
   },
   "twilightforest:recipes/transportation/canopy_boat": {
     "criteria": {
-      "in_water": "2025-01-15 16:35:02 +0000"
+      "in_water": "2025-01-17 01:37:25 +0000"
     },
     "done": true
   },
   "biomesoplenty:recipes/transportation/mahogany_boat": {
     "criteria": {
-      "in_water": "2025-01-15 16:35:02 +0000"
+      "in_water": "2025-01-17 01:37:25 +0000"
     },
     "done": true
   },
   "twilightforest:recipes/transportation/dark_boat": {
     "criteria": {
-      "in_water": "2025-01-15 16:35:02 +0000"
-    },
-    "done": true
-  },
-  "mcwbridges:recipes/cobblestone_bridge_pier": {
-    "criteria": {
-      "has_planks": "2025-01-15 16:49:41 +0000"
+      "in_water": "2025-01-17 01:37:25 +0000"
     },
     "done": true
   },
   "aquaculture:recipes/misc/gold_nugget_from_gold_fish": {
     "criteria": {
-      "has_items": "2025-01-15 16:31:42 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/white_banner": {
-    "criteria": {
-      "has_white_wool": "2025-01-15 17:02:48 +0000"
-    },
-    "done": true
-  },
-  "toolbelt:recipes/belt": {
-    "criteria": {
-      "has_leather": "2025-01-15 16:45:53 +0000"
+      "has_items": "2025-01-17 01:35:27 +0000"
     },
     "done": true
   },
   "aquaculture:recipes/food/cooked_fish_fillet_from_smoking": {
     "criteria": {
-      "has_items": "2025-01-15 16:31:42 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/tools/wooden_pickaxe": {
-    "criteria": {
-      "has_stick": "2025-01-15 16:38:08 +0000"
-    },
-    "done": true
-  },
-  "lootr:10loot": {
-    "criteria": {
-      "loot_stat": "2025-01-15 16:44:57 +0000"
+      "has_items": "2025-01-17 01:35:27 +0000"
     },
     "done": true
   },
   "aquaculture:recipes/tools/diamond_fishing_rod": {
     "criteria": {
-      "has_vanilla_rod": "2025-01-15 16:31:42 +0000"
+      "has_vanilla_rod": "2025-01-17 01:35:27 +0000"
     },
     "done": true
   },
   "farmersdelight:main/root": {
     "criteria": {
-      "seeds": "2025-01-15 16:31:42 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/food/baked_potato_from_smoking": {
-    "criteria": {
-      "has_potato": "2025-01-15 17:07:08 +0000"
+      "seeds": "2025-01-17 01:35:27 +0000"
     },
     "done": true
   },
   "ecologics:recipes/ecologics/coconut_boat": {
     "criteria": {
-      "in_water": "2025-01-15 16:35:02 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/cooking/bone_broth": {
-    "criteria": {
-      "has_bone": "2025-01-15 16:54:20 +0000"
+      "in_water": "2025-01-17 01:37:25 +0000"
     },
     "done": true
   },
   "biomesoplenty:recipes/transportation/palm_boat": {
     "criteria": {
-      "in_water": "2025-01-15 16:35:02 +0000"
+      "in_water": "2025-01-17 01:37:25 +0000"
     },
     "done": true
-  },
-  "minecraft:adventure/salvage_sherd": {
-    "criteria": {
-      "has_sherd": "2025-01-15 16:36:14 +0000"
-    },
-    "done": false
   },
   "aquaculture:recipes/food/cooked_fish_fillet": {
     "criteria": {
-      "has_items": "2025-01-15 16:31:42 +0000"
+      "has_items": "2025-01-17 01:35:27 +0000"
     },
     "done": true
   },
-  "sophisticatedbackpacks:recipes/misc/upgrade_base": {
+  "minecraft:recipes/decorations/dirt_washed_black.json": {
     "criteria": {
-      "has_leather": "2025-01-15 16:45:53 +0000"
+      "has_dirt": "2025-01-17 01:37:32 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/redstone/dropper": {
+  "minecraft:recipes/decorations/dirt_washed_brown.json": {
     "criteria": {
-      "has_redstone": "2025-01-15 16:38:46 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/transportation/carrot_on_a_stick": {
-    "criteria": {
-      "has_carrot": "2025-01-15 16:38:47 +0000"
-    },
-    "done": true
-  },
-  "ironchest:recipes/decorations/upgrades/iron_to_gold_chest_upgrade": {
-    "criteria": {
-      "has_iron_ingot": "2025-01-15 16:45:49 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/spruce_trapdoor": {
-    "criteria": {
-      "has_planks": "2025-01-15 16:37:29 +0000"
-    },
-    "done": true
-  },
-  "sophisticatedbackpacks:recipes/misc/copper_backpack": {
-    "criteria": {
-      "has_backpack": "2025-01-15 16:47:34 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/food/cooked_mutton_from_campfire_cooking": {
-    "criteria": {
-      "has_mutton": "2025-01-15 16:43:27 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/spruce_door": {
-    "criteria": {
-      "has_planks": "2025-01-15 16:37:29 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/yellow_concrete_powder": {
-    "criteria": {
-      "has_sand": "2025-01-15 16:37:33 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/spruce_fence_gate": {
-    "criteria": {
-      "has_planks": "2025-01-15 16:37:29 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/cooking/pasta_with_mutton_chop": {
-    "criteria": {
-      "has_any_ingredient": "2025-01-15 16:43:27 +0000"
+      "has_dirt": "2025-01-17 01:37:32 +0000"
     },
     "done": true
   },
   "ecologics:recipes/ecologics/flowering_azalea_boat": {
     "criteria": {
-      "in_water": "2025-01-15 16:35:02 +0000"
+      "in_water": "2025-01-17 01:37:25 +0000"
     },
     "done": true
   },
-  "betterdungeons:all_dungeons": {
+  "colourfulearth:recipes/decorations/dirt_dyed_white": {
     "criteria": {
-      "in_better_spider_dungeon": "2025-01-15 17:05:13 +0000"
-    },
-    "done": false
-  },
-  "betterarcheology:recipes/tools/iron_brush": {
-    "criteria": {
-      "has_iron_ingot": "2025-01-15 16:45:49 +0000"
+      "has_dirt": "2025-01-17 01:37:32 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/sandstone": {
+  "colourfulearth:recipes/decorations/dirt_dyed_pink": {
     "criteria": {
-      "has_sand": "2025-01-15 16:37:33 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/white_wool_from_string": {
-    "criteria": {
-      "has_string": "2025-01-15 16:46:44 +0000"
-    },
-    "done": true
-  },
-  "mcwbridges:recipes/cobblestone_bridge_stair": {
-    "criteria": {
-      "has_planks": "2025-01-15 16:49:41 +0000"
-    },
-    "done": true
-  },
-  "mcwbridges:recipes/balustrade_cobblestone_bridge": {
-    "criteria": {
-      "has_planks": "2025-01-15 16:49:41 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/building_blocks/organic_compost_from_rotten_flesh": {
-    "criteria": {
-      "has_rotten_flesh": "2025-01-15 16:50:45 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/food/cooked_cod_from_campfire_cooking": {
-    "criteria": {
-      "has_cod": "2025-01-15 16:36:22 +0000"
-    },
-    "done": true
-  },
-  "comforts:hammock_white": {
-    "criteria": {
-      "has_white_wool": "2025-01-15 17:02:48 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:recipes/building_blocks/graveyard_soil": {
-    "criteria": {
-      "has_item": "2025-01-15 16:54:22 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/gray_concrete_powder": {
-    "criteria": {
-      "has_sand": "2025-01-15 16:37:33 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/tools/iron_axe": {
-    "criteria": {
-      "has_iron_ingot": "2025-01-15 16:45:49 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/iron_nugget_from_blasting": {
-    "criteria": {
-      "has_iron_pickaxe": "2025-01-15 16:49:33 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/food/mutton_wrap": {
-    "criteria": {
-      "has_mutton": "2025-01-15 16:44:27 +0000"
-    },
-    "done": true
-  },
-  "minecraft:adventure/kill_a_mob": {
-    "criteria": {
-      "minecraft:witch": "2025-01-15 16:38:23 +0000"
+      "has_dirt": "2025-01-17 01:37:32 +0000"
     },
     "done": true
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
-      "minecraft:taiga": "2025-01-15 17:01:06 +0000",
-      "minecraft:birch_forest": "2025-01-15 17:01:24 +0000",
-      "minecraft:beach": "2025-01-15 16:34:08 +0000",
-      "minecraft:river": "2025-01-15 16:37:37 +0000",
-      "minecraft:swamp": "2025-01-15 17:01:44 +0000",
-      "minecraft:cold_ocean": "2025-01-15 16:35:09 +0000",
-      "minecraft:forest": "2025-01-15 17:08:15 +0000",
-      "minecraft:windswept_forest": "2025-01-15 17:01:47 +0000",
-      "minecraft:old_growth_spruce_taiga": "2025-01-15 16:31:43 +0000",
-      "minecraft:old_growth_birch_forest": "2025-01-15 17:01:58 +0000"
+      "minecraft:old_growth_birch_forest": "2025-01-17 01:35:28 +0000"
     },
     "done": false
   },
-  "minecraft:recipes/building_blocks/cobblestone_stairs_from_cobblestone_stonecutting": {
+  "minecraft:recipes/decorations/dirt_washed_red.json": {
     "criteria": {
-      "has_cobblestone": "2025-01-15 16:49:41 +0000"
+      "has_dirt": "2025-01-17 01:37:32 +0000"
     },
     "done": true
-  },
-  "mcwpaths:recipes/cobblestone": {
-    "criteria": {
-      "has_wood": "2025-01-15 16:49:41 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/decorations/cutting_board": {
-    "criteria": {
-      "has_stick": "2025-01-15 16:38:08 +0000"
-    },
-    "done": true
-  },
-  "minecraft:husbandry/balanced_diet": {
-    "criteria": {
-      "cooked_mutton": "2025-01-15 16:44:30 +0000",
-      "cooked_beef": "2025-01-15 16:51:43 +0000",
-      "golden_apple": "2025-01-15 17:00:06 +0000",
-      "salmon": "2025-01-15 16:38:30 +0000"
-    },
-    "done": false
   },
   "aquaculture:recipes/misc/neptunium_ingot_from_nuggets": {
     "criteria": {
-      "has_items": "2025-01-15 16:31:42 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/food/cooked_cod": {
-    "criteria": {
-      "has_cod": "2025-01-15 16:36:22 +0000"
+      "has_items": "2025-01-17 01:35:27 +0000"
     },
     "done": true
   },
   "twilightforest:recipes/transportation/sorting_boat": {
     "criteria": {
-      "in_water": "2025-01-15 16:35:02 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/tnt": {
-    "criteria": {
-      "has_gunpowder": "2025-01-15 16:38:43 +0000"
-    },
-    "done": true
-  },
-  "aquaculture:recipes/tools/stone_fillet_knife": {
-    "criteria": {
-      "has_items": "2025-01-15 16:49:41 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/tools/stone_hoe": {
-    "criteria": {
-      "has_cobblestone": "2025-01-15 16:49:41 +0000"
+      "in_water": "2025-01-17 01:37:25 +0000"
     },
     "done": true
   },
   "aquaculture:recipes/misc/iron_nugget_from_blasting": {
     "criteria": {
-      "has_fishing_rod": "2025-01-15 16:31:42 +0000",
-      "has_fillet_knife": "2025-01-15 16:31:42 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/spruce_stairs": {
-    "criteria": {
-      "has_planks": "2025-01-15 16:37:29 +0000"
-    },
-    "done": true
-  },
-  "betterdungeons:spider_dungeon": {
-    "criteria": {
-      "in_better_spider_dungeon": "2025-01-15 17:05:13 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/loom": {
-    "criteria": {
-      "has_string": "2025-01-15 16:46:44 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/cooking/vegetable_soup": {
-    "criteria": {
-      "has_any_ingredient": "2025-01-15 16:38:47 +0000"
-    },
-    "done": true
-  },
-  "mcwbridges:recipes/pliers": {
-    "criteria": {
-      "has_planks": "2025-01-15 16:45:49 +0000"
+      "has_fishing_rod": "2025-01-17 01:35:27 +0000",
+      "has_fillet_knife": "2025-01-17 01:35:27 +0000"
     },
     "done": true
   },
   "aquaculture:recipes/misc/tin_can_to_iron_nugget": {
     "criteria": {
-      "has_items": "2025-01-15 16:31:42 +0000"
-    },
-    "done": true
-  },
-  "minecraft:story/root": {
-    "criteria": {
-      "crafting_table": "2025-01-15 16:38:02 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/iron_door": {
-    "criteria": {
-      "has_iron_ingot": "2025-01-15 16:45:49 +0000"
+      "has_items": "2025-01-17 01:35:27 +0000"
     },
     "done": true
   },
   "minecraft:recipes/transportation/dark_oak_boat": {
     "criteria": {
-      "in_water": "2025-01-15 16:35:02 +0000"
+      "in_water": "2025-01-17 01:37:25 +0000"
     },
     "done": true
   },
   "aquaculture:recipes/decorations/jungle_fish_mount": {
     "criteria": {
-      "has_items": "2025-01-15 16:31:42 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/piston": {
-    "criteria": {
-      "has_redstone": "2025-01-15 16:38:46 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/food/cooked_beef_from_campfire_cooking": {
-    "criteria": {
-      "has_beef": "2025-01-15 17:05:15 +0000"
-    },
-    "done": true
-  },
-  "sophisticatedbackpacks:recipes/misc/iron_backpack": {
-    "criteria": {
-      "has_backpack": "2025-01-15 16:47:34 +0000"
+      "has_items": "2025-01-17 01:35:27 +0000"
     },
     "done": true
   },
